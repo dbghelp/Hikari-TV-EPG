@@ -25,44 +25,82 @@ In your M3U8 playlist,
 
 2. Change your tvg-id to the following for the respective channels:
   
-| tvg-id              | Channel Name                      |
-|---------------------|-----------------------------------|
-| abema-anime         | ABEMA アニメチャンネル            |
-| abema-anime-2       | ABEMA アニメチャンネル2           |
-| special-plus-7      | アニメSPECIALチャンネル           |
-| anime-special-2     | アニメSPECIAL2チャンネル          |
-| isekai-anime        | 異世界・ファンタジーアニメチャンネル |
-| isekai-anime-2      | 異世界・ファンタジーアニメ2チャンネル|
-| lovecomedy-anime    | ラブコメアニメチャンネル          |
-| dailylife-anime     | 日常・青春アニメチャンネル         |
-| late-night-anime    | 深夜アニメチャンネル              |
-| anime-live          | アニメLIVEチャンネル              |
-| precure             | プリキュアチャンネル              |
-| atashinchi          | あたしンちチャンネル              |
-| family-anime-1      | ファミリーアニメ                 |
-| family-anime-2      | ファミリーアニメ２               |
-| 80s-anime-1         | なつかしアニメ80's                |
-| 90s-anime-1         | なつかしアニメ90's                |
-| 00s-anime-1         | なつかしアニメ00's                |
-| abema-special       | ABEMA SPECIALチャンネル           |
-| special-plus        | ABEMA SPECIAL 2チャンネル         |
-| abema-news          | ABEMA NEWSチャンネル              |
-| news-plus           | ABEMA NEWS会見チャンネル          |
-| asia-drama          | 韓国・中国ドラマチャンネル         |
-| asia-love-comedy    | 韓国ラブコメディ                 |
-| asia-loveromance    | 韓国ラブロマンス                 |
-| asia-historical     | 韓国時代劇                       |
-| asia-drama-2        | 韓国・中国ドラマチャンネル2       |
-| k-world             | K WORLDチャンネル                |
-| drama               | ドラマ映画チャンネル              |
-| drama-2             | ドラマ映画チャンネル2             |
-| mahjong             | 麻雀チャンネル                   |
-| shogi               | 将棋チャンネル                   |
-| world-sports        | SPORTSチャンネル                 |
-| world-sports-1      | SPORTS LIVE1 チャンネル          |
-| fighting-sports     | 格闘チャンネル                   |
-| hiphop              | HIPHOPチャンネル                 |
-| commercial          | CMチャンネル                     |
-| boatrace            | BOATRACEチャンネル               |
-| keirin-auto         | 競輪・オートレースチャンネル       |
-
+| tvg-id                | Channel Name                                                        |
+|-----------------------|---------------------------------------------------------------------|
+| hikaritv-ch101        | ひかりＴＶチャンネル                                                |
+| hikaritv-ch150        | ショップチャンネル                                                  |
+| hikaritv-ch151        | ＱＶＣ                                                             |
+| hikaritv-ch153        | ジュエリー☆ＧＳＴＶ                                                |
+| hikaritv-ch154        | セレクトショッピング                                                |
+| hikaritv-ch155        | ベターライフチャンネル                                              |
+| hikaritv-ch181        | ＮＨＫワールド ＪＡＰＡＮ                                           |
+| hikaritv-ch182        | 中国テレビ★大富チャンネル                                           |
+| hikaritv-ch251        | WOWOWプラス 映画・ドラマ・スポーツ・音楽                           |
+| hikaritv-ch252        | ザ・シネマ                                                         |
+| hikaritv-ch260        | 日本映画専門チャンネル                                             |
+| hikaritv-ch261        | 映画・チャンネルＮＥＣＯ                                            |
+| hikaritv-ch280        | スターチャンネル                                                  |
+| hikaritv-ch290        | 衛星劇場                                                         |
+| hikaritv-ch291        | 東映チャンネル                                                    |
+| hikaritv-ch292        | Ｖ☆パラダイス                                                    |
+| hikaritv-ch350        | アニマックス                                                     |
+| hikaritv-ch351        | キッズステーション                                                |
+| hikaritv-ch352        | カートゥーン ネットワーク 海外アニメ国内アニメ                     |
+| hikaritv-ch380        | アニメシアターX(AT-X)                                            |
+| hikaritv-ch451        | スーパー！ドラマＴＶ　#海外ドラマ☆エンタメ                         |
+| hikaritv-ch452        | アクションチャンネル                                              |
+| hikaritv-ch455        | ミステリーチャンネル                                              |
+| hikaritv-ch460        | ホームドラマチャンネル 韓流・時代劇・国内ドラマ                   |
+| hikaritv-ch461        | 時代劇専門チャンネル                                             |
+| hikaritv-ch470        | TBSチャンネル1 最新ドラマ・音楽・映画                              |
+| hikaritv-ch471        | TBSチャンネル2 名作ドラマ・スポーツ・アニメ                       |
+| hikaritv-ch552        | KBS World                                                       |
+| hikaritv-ch553        | アジアドラマチックTV（アジドラ）                                   |
+| hikaritv-ch554        | MONDO TV                                                       |
+| hikaritv-ch555        | 日テレプラス　ドラマ・アニメ・音楽ライブ                          |
+| hikaritv-ch556        | テレ朝チャンネル１                                                |
+| hikaritv-ch557        | テレ朝チャンネル２                                                |
+| hikaritv-ch558        | ファミリー劇場                                                   |
+| hikaritv-ch559        | エンタメ〜テレ☆シネドラバラエティ                                 |
+| hikaritv-ch560        | フジテレビＯＮＥ スポーツ・バラエティ                              |
+| hikaritv-ch561        | フジテレビＴＷＯ ドラマ・アニメ                                    |
+| hikaritv-ch562        | フジテレビＮＥＸＴ ライブ・プレミアム                              |
+| hikaritv-ch570        | ＫＮＴＶ                                                       |
+| hikaritv-ch571        | Mnet                                                          |
+| hikaritv-ch650        | スペースシャワーＴＶ                                             |
+| hikaritv-ch651        | 100％ヒッツ！スペースシャワーTV プラス                            |
+| hikaritv-ch653        | MUSIC ON! TV（エムオン!）                                        |
+| hikaritv-ch655        | 歌謡ポップスチャンネル                                           |
+| hikaritv-ch750        | ＧＡＯＲＡ ＳＰＯＲＴＳ                                           |
+| hikaritv-ch751        | スカイＡ                                                       |
+| hikaritv-ch752        | 日テレジータス                                                  |
+| hikaritv-ch753        | スポーツライブ＋                                                |
+| hikaritv-ch754        | ゴルフネットワーク                                              |
+| hikaritv-ch757        | J SPORTS 1                                                    |
+| hikaritv-ch758        | J SPORTS 2                                                    |
+| hikaritv-ch759        | J SPORTS 3                                                    |
+| hikaritv-ch760        | J SPORTS 4                                                    |
+| hikaritv-ch761        | ＦＩＧＨＴＩＮＧ ＴＶ サムライ                                    |
+| hikaritv-ch766        | CNN U.S.                                                     |
+| hikaritv-ch770        | グリーンチャンネル                                             |
+| hikaritv-ch771        | グリーンチャンネル２                                           |
+| hikaritv-ch772        | ＳＰＥＥＤチャンネル１（競輪ライブ）                             |
+| hikaritv-ch773        | ＳＰＥＥＤチャンネル２（競輪ライブ）                             |
+| hikaritv-ch774        | 南関東地方競馬チャンネル                                        |
+| hikaritv-ch775        | 地方競馬ナインSELECT                                            |
+| hikaritv-ch776        | レジャーチャンネル                                              |
+| hikaritv-ch812        | ヒストリーチャンネル 日本・世界の歴史＆エンタメ                  |
+| hikaritv-ch820        | ディスカバリーチャンネル                                         |
+| hikaritv-ch830        | 旅チャンネル                                                   |
+| hikaritv-ch831        | ダンスチャンネル by エンタメ〜テレ                                |
+| hikaritv-ch832        | 囲碁・将棋チャンネル                                            |
+| hikaritv-ch840        | 釣りビジョン                                                   |
+| hikaritv-ch841        | パチ・スロ サイトセブンＴＶ                                      |
+| hikaritv-ch842        | パチンコ★パチスロＴＶ！                                         |
+| hikaritv-ch843        | 刺激ストロングチャンネル                                        |
+| hikaritv-ch860        | TBS NEWS                                                     |
+| hikaritv-ch861        | BBCニュース                                                  |
+| hikaritv-ch862        | 日テレNEWS24                                                 |
+| hikaritv-ch863        | CNNj                                                        |
+| hikaritv-ch876        | フランス国際放送TV5MONDE                                       |
+| hikaritv-ch877        | 日経ＣＮＢＣ                                                  |

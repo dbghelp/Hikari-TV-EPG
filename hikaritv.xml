@@ -308,21 +308,6 @@
 		<display-name>日経ＣＮＢＣ</display-name>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
 	</channel>
-	<programme channel="hikaritv-ch101" start="20250308080000 +0000" stop="20250308091500 +0000">
-		<title>ブラインド(字幕版)#1</title>
-		<desc />
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/101/101_edps_p0219093.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch101" start="20250308091500 +0000" stop="20250308093000 +0000">
-		<title>「にっぽん４Ｋ巡り」 北海道編 〜美４Ｋ旅 初雪の富良野 おんがくさんぽ♪</title>
-		<desc />
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/101.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch101" start="20250308093000 +0000" stop="20250308114500 +0000">
-		<title>ANIMAX MUSIX 2024 SPRING 〜LIVE SELECTION〜</title>
-		<desc />
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/101/101_edps_p0218705.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
 	<programme channel="hikaritv-ch101" start="20250308114500 +0000" stop="20250308120000 +0000">
 		<title>「にっぽん４Ｋ巡り」 北海道編 〜美４Ｋ旅 札幌編 おいしい！たのしい！札幌たび</title>
 		<desc />
@@ -623,20 +608,35 @@
 		<desc />
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/101/101_edps_p0218783.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch150" start="20250308080000 +0000" stop="20250308090000 +0000">
-		<title>攻めのアミノ酸！活動的な毎日に「ドクターアミノパワーグリーン」</title>
-		<desc>美容と健康／話題のダイエット商品や、注目の素材を使ったサプリメント、オーラルケア、フィットネス器具など美容と健康をサポートするアイテムをご紹介。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/150.jpg" />
+	<programme channel="hikaritv-ch101" start="20250310094500 +0000" stop="20250310100000 +0000">
+		<title>「にっぽん４Ｋ巡り」 北海道編 〜美４Ｋ旅 初雪の富良野 おんがくさんぽ♪</title>
+		<desc />
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/101.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch150" start="20250308090000 +0000" stop="20250308100000 +0000">
-		<title>ミセスクレンリー　業務用パワーで徹底キレイ！カビ・ヌメリ洗浄剤</title>
-		<desc>ホームインテリア／プロの技が光るキッチンツールをはじめ、掃除・洗濯アイテム、寝具・インテリア用品など、“あったらイイな”と思うアイテムをご紹介。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/150.jpg" />
+	<programme channel="hikaritv-ch101" start="20250310100000 +0000" stop="20250310103000 +0000">
+		<title>２丁拳銃 修士が斬り込む！「ニンジャバットマン対ヤクザリーグ」任侠トーク</title>
+		<desc />
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/101/101_edps_p0219106.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch150" start="20250308100000 +0000" stop="20250308110000 +0000">
-		<title>スタイルラヴィー、ラヴィコンフォートがお買い得価格で登場！</title>
-		<desc>ファッション／国内外の人気ブランドや、知る人ぞ知るこだわりのメーカーより、服、バッグ、靴など旬のファッションアイテムをご紹介。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/150.jpg" />
+	<programme channel="hikaritv-ch101" start="20250310103000 +0000" stop="20250310110000 +0000">
+		<title>ＴＶショッピング　肝心要の新健康成分を巡る旅！</title>
+		<desc>十三湖産「ヤマトシジミ」の知られざる活力！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/101.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch101" start="20250310110000 +0000" stop="20250310113000 +0000">
+		<title>湯あがりスケッチ 第6湯</title>
+		<desc />
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/101/101_edps_p0212948.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch101" start="20250310113000 +0000" stop="20250310120000 +0000">
+		<title>湯あがりスケッチ 第7湯</title>
+		<desc />
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/101/101_edps_p0212950.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch101" start="20250310120000 +0000" stop="20250310130000 +0000">
+		<title>the FACE 〜100まで愛して〜 episode 1【100歳まで愛したい】</title>
+		<desc />
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/101/101_edps_p0218898.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch150" start="20250308110000 +0000" stop="20250308120000 +0000">
 		<title>しなやかな牛革を使用した色がきれいな軽量ＢＡＧ　カワカラ</title>
@@ -873,20 +873,15 @@
 		<desc>ファッション／オールスターファッションデイ／日々のおしゃれにときめきを運ぶ、スターブランドが大集合。心まで華やぐ旬アイテムが満開です！</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/150.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch151" start="20250308080000 +0000" stop="20250308090000 +0000">
-		<title>大橋タカコの美人バランスメイク</title>
-		<desc>“美のカリスマ伝道師”大橋タカコさんのメイクテクニックを大公開！ご本人プロデュースのコスメもお見逃しなく。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/151.jpg" />
+	<programme channel="hikaritv-ch150" start="20250310100000 +0000" stop="20250310110000 +0000">
+		<title>創業１００年以上！タイムクロス　日本製綿シルクの軽やか帽子</title>
+		<desc>ファッション／オールスターファッションデイ／日々のおしゃれにときめきを運ぶ、スターブランドが大集合。心まで華やぐ旬アイテムが満開です！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/150.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch151" start="20250308090000 +0000" stop="20250308100000 +0000">
-		<title>美味しい総菜 みんなでごはん</title>
-		<desc>家族や友人との楽しいひとときに。食卓に彩りを添えてくれる、こだわりの美味しいお総菜をご紹介します。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/151.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch151" start="20250308100000 +0000" stop="20250308110000 +0000">
-		<title>美肌研究 iM1NE Labs (イミイン ラボ)</title>
-		<desc>未来の肌まで見据えた、365日調子の良いお肌へ導くスキンケアアイテムをご紹介します。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/151.jpg" />
+	<programme channel="hikaritv-ch150" start="20250310110000 +0000" stop="20250310130000 +0000">
+		<title>ｔａｍａｍｉ　ｗａｔａｎａｂｅ　愛おしく咲く毎日</title>
+		<desc>オールスターファッションデイ／日々のおしゃれにときめきを運ぶ、スターブランドが大集合。心まで華やぐ旬アイテムが満開です！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/150.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch151" start="20250308110000 +0000" stop="20250308120000 +0000">
 		<title>毎日がサプライズ！ドキドキ20</title>
@@ -1123,20 +1118,20 @@
 		<desc>和菓子・洋菓子のカテゴリーを超えた、新杵堂こだわりの創作スイーツが登場します。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/151.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch153" start="20250308080000 +0000" stop="20250308090000 +0000">
-		<title>ジュエリーコンサルタント</title>
-		<desc>宝石の匠、五十嵐さんだからこそ？！ご紹介できる！希少性と輝き研磨にこだわったジュエリーの数々にご注目ください。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/153.jpg" />
+	<programme channel="hikaritv-ch151" start="20250310100000 +0000" stop="20250310110000 +0000">
+		<title>ニーズラボがお届けする健康グッズ</title>
+		<desc />
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/151.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch153" start="20250308090000 +0000" stop="20250308100000 +0000">
-		<title>地金倶楽部</title>
-		<desc>日本有数のチェーンメーカーよる商品を揃え、GSTVならではのチェーンネックレスやデザインチェーンや地金ジュエリーを幅広くご紹介します。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/153.jpg" />
+	<programme channel="hikaritv-ch151" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>毎日がサプライズ！ドキドキ20</title>
+		<desc>毎日、夜20時はドキドキのひととき。どんな魅力的なアイテムが飛び出すか、ご期待ください。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/151.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch153" start="20250308100000 +0000" stop="20250308110000 +0000">
-		<title>エクスプレスアワー</title>
-		<desc>ジェムショッピング</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/153.jpg" />
+	<programme channel="hikaritv-ch151" start="20250310120000 +0000" stop="20250310130000 +0000">
+		<title>ジュエリーナイト×バイヤーの本音セレクト</title>
+		<desc>週ごとにテーマが変わる、煌めきいっぱいのひととき。バイヤーが本気でセレクトした、輝きあふれるジュエリーをお届けします。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/151.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch153" start="20250308110000 +0000" stop="20250308120000 +0000">
 		<title>エクスプレスアワー</title>
@@ -1353,145 +1348,20 @@
 		<desc>真珠のテリのメカニズムをアカデミックに解説するスペシャリスト塗野聖一さんが、さまざまなパールジュエリーをご紹介します。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/153.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch154" start="20250308084500 +0000" stop="20250308090000 +0000">
-		<title>セレスタショッピング</title>
-		<desc>【受付番号】　0120-779-266 （24時間受付）
-【商品のご紹介】
-　 ■ＭＴＧ「e-3X（イースリーエックス）」</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
+	<programme channel="hikaritv-ch153" start="20250310100000 +0000" stop="20250310110000 +0000">
+		<title>エクスプレスアワー</title>
+		<desc>ジェムショッピング</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/153.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch154" start="20250308090000 +0000" stop="20250308090500 +0000">
-		<title>ショッピングアワー</title>
-		<desc>野草酵素　他</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
+	<programme channel="hikaritv-ch153" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>エクスプレスアワー</title>
+		<desc>ジェムショッピング</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/153.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch154" start="20250308090500 +0000" stop="20250308091000 +0000">
-		<title>SHOP STYLECAST</title>
-		<desc>"【受付番号】　
-　0120-779-266
-【本日の商品】
-・SIXPAD FootFit 3  43,780円（税込）
-・SIXPAD FootFit 3  Heat  74,800円（税込）
-　"
-</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch154" start="20250308091000 +0000" stop="20250308091500 +0000">
-		<title>セレスタショッピング</title>
-		<desc>【受付番号】　0120-779-266　（24時間受付）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch154" start="20250308091500 +0000" stop="20250308092000 +0000">
-		<title>SHOP STYLECAST</title>
-		<desc>【受付番号】　0120-779-266</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch154" start="20250308092000 +0000" stop="20250308093500 +0000">
-		<title>セレスタショッピング</title>
-		<desc>【受付番号】　0120-779-266　（24時間受付）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch154" start="20250308093500 +0000" stop="20250308095000 +0000">
-		<title>セレスタショッピング</title>
-		<desc>【受付番号】　0120-779-266
-
-【商品のご紹介】
-　 ■ＭＴＧ 「フェイシャル・フィットネス　ＰＡＯ（パオ）」
-　　 14080円（税込、送料・代引き手数料無料）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch154" start="20250308095000 +0000" stop="20250308100500 +0000">
-		<title>セレスタショッピング</title>
-		<desc>【受付番号】　0120-779-266　（24時間受付）
-
-【商品のご紹介】
-　 ■ＭＴＧ 「ReFa FINE BUBBLE ONE（リファ・ファインバブル・ワン）」
-</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch154" start="20250308100500 +0000" stop="20250308101000 +0000">
-		<title>ショッピングアワー</title>
-		<desc>ふし自慢 塗るタイプ　他</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch154" start="20250308101000 +0000" stop="20250308102500 +0000">
-		<title>セレスタショッピング</title>
-		<desc>【受付番号】　0120-779-266 （24時間受付）
-【商品のご紹介】
-　 ■ＭＴＧ「e-3X（イースリーエックス）」</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch154" start="20250308102500 +0000" stop="20250308103000 +0000">
-		<title>SHOP STYLECAST</title>
-		<desc>"【受付番号】　
-　0120-779-266
-【本日の商品】
-・SIXPAD FootFit 3  43,780円（税込）
-・SIXPAD FootFit 3  Heat  74,800円（税込）
-　"
-</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch154" start="20250308103000 +0000" stop="20250308103500 +0000">
-		<title>セレスタショッピング</title>
-		<desc>【受付番号】　0120-779-266　（24時間受付）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch154" start="20250308103500 +0000" stop="20250308104000 +0000">
-		<title>SHOP STYLECAST</title>
-		<desc>【受付番号】　0120-779-266</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch154" start="20250308104000 +0000" stop="20250308105500 +0000">
-		<title>セレスタショッピング</title>
-		<desc>【受付番号】　0120-779-266　（24時間受付）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch154" start="20250308105500 +0000" stop="20250308111000 +0000">
-		<title>セレスタショッピング</title>
-		<desc>【受付番号】　0120-779-266
-
-【商品のご紹介】
-　 ■ＭＴＧ 「フェイシャル・フィットネス　ＰＡＯ（パオ）」
-　　 14080円（税込、送料・代引き手数料無料）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch154" start="20250308111000 +0000" stop="20250308111500 +0000">
-		<title>セレスタショッピング</title>
-		<desc>【受付番号】　0120-779-266　（24時間受付）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch154" start="20250308111500 +0000" stop="20250308113000 +0000">
-		<title>セレスタショッピング</title>
-		<desc>【受付番号】　0120-779-266　（24時間受付）
-
-【商品のご紹介】
-　 ■ＭＴＧ 「ReFa FINE BUBBLE ONE（リファ・ファインバブル・ワン）」
-</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch154" start="20250308113000 +0000" stop="20250308114500 +0000">
-		<title>セレスタショッピング</title>
-		<desc>【受付番号】　0120-779-266 （24時間受付）
-【商品のご紹介】
-　 ■ＭＴＧ「e-3X（イースリーエックス）」</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch154" start="20250308114500 +0000" stop="20250308115000 +0000">
-		<title>SHOP STYLECAST</title>
-		<desc>"【受付番号】　
-　0120-779-266
-【本日の商品】
-・SIXPAD FootFit 3  43,780円（税込）
-・SIXPAD FootFit 3  Heat  74,800円（税込）
-　"
-</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch154" start="20250308115000 +0000" stop="20250308115500 +0000">
-		<title>セレスタショッピング</title>
-		<desc>【受付番号】　0120-779-266　（24時間受付）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
+	<programme channel="hikaritv-ch153" start="20250310120000 +0000" stop="20250310130000 +0000">
+		<title>エクスプレスアワー</title>
+		<desc>ジェムショッピング</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/153.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch154" start="20250308115500 +0000" stop="20250308120000 +0000">
 		<title>SHOP STYLECAST</title>
@@ -2521,6 +2391,123 @@
 		<desc>野草酵素　他</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
 	</programme>
+	<programme channel="hikaritv-ch154" start="20250310090500 +0000" stop="20250310093500 +0000">
+		<title>イチおし！Selection</title>
+		<desc>【受付番号】  0120-404-808</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch154" start="20250310093500 +0000" stop="20250310095000 +0000">
+		<title>セレスタショッピング</title>
+		<desc>【受付番号】　0120-779-266
+
+【商品のご紹介】
+　 ■ＭＴＧ 「フェイシャル・フィットネス　ＰＡＯ（パオ）」
+　　 14080円（税込、送料・代引き手数料無料）</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch154" start="20250310095000 +0000" stop="20250310100500 +0000">
+		<title>セレスタショッピング</title>
+		<desc>【受付番号】　0120-779-266　（24時間受付）
+
+【商品のご紹介】
+　 ■ＭＴＧ 「ReFa FINE BUBBLE ONE（リファ・ファインバブル・ワン）」
+</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch154" start="20250310100500 +0000" stop="20250310101000 +0000">
+		<title>ショッピングアワー</title>
+		<desc>ふし自慢 塗るタイプ　他</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch154" start="20250310101000 +0000" stop="20250310102500 +0000">
+		<title>セレスタショッピング</title>
+		<desc>【受付番号】　0120-779-266 （24時間受付）
+【商品のご紹介】
+　 ■ＭＴＧ「e-3X（イースリーエックス）」</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch154" start="20250310102500 +0000" stop="20250310103000 +0000">
+		<title>SHOP STYLECAST</title>
+		<desc>"【受付番号】　
+　0120-779-266
+【本日の商品】
+・SIXPAD FootFit 3  43，780円（税込）
+・SIXPAD FootFit 3  Heat  74，800円（税込）
+　"
+</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch154" start="20250310103000 +0000" stop="20250310103500 +0000">
+		<title>セレスタショッピング</title>
+		<desc>【受付番号】　0120-779-266　（24時間受付）</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch154" start="20250310103500 +0000" stop="20250310104000 +0000">
+		<title>SHOP STYLECAST</title>
+		<desc>【受付番号】　0120-779-266</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch154" start="20250310104000 +0000" stop="20250310105500 +0000">
+		<title>セレスタショッピング</title>
+		<desc>【受付番号】　0120-779-266　（24時間受付）</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch154" start="20250310105500 +0000" stop="20250310111000 +0000">
+		<title>セレスタショッピング</title>
+		<desc>【受付番号】　0120-779-266
+
+【商品のご紹介】
+　 ■ＭＴＧ 「フェイシャル・フィットネス　ＰＡＯ（パオ）」
+　　 14080円（税込、送料・代引き手数料無料）</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch154" start="20250310111000 +0000" stop="20250310111500 +0000">
+		<title>セレスタショッピング</title>
+		<desc>【受付番号】　0120-779-266　（24時間受付）</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch154" start="20250310111500 +0000" stop="20250310113000 +0000">
+		<title>セレスタショッピング</title>
+		<desc>【受付番号】　0120-779-266　（24時間受付）
+
+【商品のご紹介】
+　 ■ＭＴＧ 「ReFa FINE BUBBLE ONE（リファ・ファインバブル・ワン）」
+</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch154" start="20250310113000 +0000" stop="20250310114500 +0000">
+		<title>セレスタショッピング</title>
+		<desc>【受付番号】　0120-779-266 （24時間受付）
+【商品のご紹介】
+　 ■ＭＴＧ「e-3X（イースリーエックス）」</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch154" start="20250310114500 +0000" stop="20250310115000 +0000">
+		<title>SHOP STYLECAST</title>
+		<desc>"【受付番号】　
+　0120-779-266
+【本日の商品】
+・SIXPAD FootFit 3  43，780円（税込）
+・SIXPAD FootFit 3  Heat  74，800円（税込）
+　"
+</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch154" start="20250310115000 +0000" stop="20250310115500 +0000">
+		<title>セレスタショッピング</title>
+		<desc>【受付番号】　0120-779-266　（24時間受付）</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch154" start="20250310115500 +0000" stop="20250310120000 +0000">
+		<title>SHOP STYLECAST</title>
+		<desc>【受付番号】　0120-779-266</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch154" start="20250310120000 +0000" stop="20250310121500 +0000">
+		<title>セレスタショッピング</title>
+		<desc>【受付番号】　0120-779-266　（24時間受付）</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/154.jpg" />
+	</programme>
 	<programme channel="hikaritv-ch155" start="20250308083500 +0000" stop="20250308121000 +0000">
 		<title>オートレース実況生中継 伊勢崎</title>
 		<desc>オッズパーク杯伊勢崎オートアフター5ナイター
@@ -3151,45 +3138,61 @@
 		<desc>【受付番号】　0120-779-266　（24時間受付）</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/155.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch181" start="20250308085500 +0000" stop="20250308090000 +0000">
-		<title>PythagoraSwitch mini</title>
-		<desc />
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/181.jpg" />
+	<programme channel="hikaritv-ch155" start="20250310091000 +0000" stop="20250310092500 +0000">
+		<title>セレスタショッピング</title>
+		<desc>【受付番号】　0120-779-266　（24時間受付）
+
+【商品のご紹介】
+　 ■ＭＴＧ 「ReFa FINE BUBBLE ONE（リファ・ファインバブル・ワン）」
+</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/155.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch181" start="20250308090000 +0000" stop="20250308091000 +0000">
-		<title>NHK NEWSLINE</title>
-		<desc />
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/181.jpg" />
+	<programme channel="hikaritv-ch155" start="20250310092500 +0000" stop="20250310093000 +0000">
+		<title>セレスタショッピング</title>
+		<desc>【受付番号】　0120-779-266　（24時間受付）
+</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/155.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch181" start="20250308091000 +0000" stop="20250308100000 +0000">
-		<title>CYCLE AROUND JAPAN</title>
-		<desc />
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/181.jpg" />
+	<programme channel="hikaritv-ch155" start="20250310093000 +0000" stop="20250310093500 +0000">
+		<title>ショッピングアワー</title>
+		<desc>ダイト薬品　他</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/155.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch181" start="20250308100000 +0000" stop="20250308101000 +0000">
-		<title>NHK NEWSLINE</title>
-		<desc />
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/181.jpg" />
+	<programme channel="hikaritv-ch155" start="20250310093500 +0000" stop="20250310100500 +0000">
+		<title>毎日骨ケアMBP</title>
+		<desc>【受付番号】　0120-41-5252</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/155.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch181" start="20250308101000 +0000" stop="20250308104000 +0000">
-		<title>Evolving Dysphagia Diets</title>
-		<desc />
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/181.jpg" />
+	<programme channel="hikaritv-ch155" start="20250310100500 +0000" stop="20250310101000 +0000">
+		<title>SHOP STYLECAST</title>
+		<desc>【受付番号】　
+　0120-779-266
+【本日の商品】
+・SIXPAD FootFit 3  43，780円（税込）
+・SIXPAD FootFit 3  Heat  74，800円（税込）</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/155.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch181" start="20250308104000 +0000" stop="20250308105000 +0000">
-		<title>Texico</title>
-		<desc />
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/181.jpg" />
+	<programme channel="hikaritv-ch155" start="20250310101000 +0000" stop="20250310101500 +0000">
+		<title>セレスタショッピング</title>
+		<desc>【受付番号】　0120-779-266　（24時間受付）
+</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/155.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch181" start="20250308105000 +0000" stop="20250308110000 +0000">
-		<title>Listen to the Earth</title>
-		<desc />
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/181.jpg" />
+	<programme channel="hikaritv-ch155" start="20250310101500 +0000" stop="20250310102000 +0000">
+		<title>SHOP STYLECAST</title>
+		<desc>【受付番号】　0120-779-266</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/155.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch181" start="20250308110000 +0000" stop="20250308111000 +0000">
-		<title>NHK NEWSLINE</title>
-		<desc />
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/181.jpg" />
+	<programme channel="hikaritv-ch155" start="20250310102000 +0000" stop="20250310102500 +0000">
+		<title>ショッピングアワー</title>
+		<desc>ファミリー・ライフ　他</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/155.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch155" start="20250310102500 +0000" stop="20250310150000 +0000">
+		<title>オートレース実況生中継 山陽</title>
+		<desc>山陽ミッドナイトオートレース 当たるんですCUP
+3/9-3/13 19:25-24:00</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/155/155_155_202503_sanyo_2.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch181" start="20250308111000 +0000" stop="20250308120000 +0000">
 		<title>Samural Castles Special</title>
@@ -3956,30 +3959,55 @@
 		<desc />
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/181.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch182" start="20250308052800 +0000" stop="20250308090000 +0000">
-		<title>大道薪火 #29-33</title>
-		<desc>該劇講述了以毛澤東爲代表的老一輩革命家通過調査研究、深入思索，創造性地將馬克思主義和中国革命具体実際相結合，探索中国革命道路的故事。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/182.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch182" start="20250308090000 +0000" stop="20250308100000 +0000">
-		<title>国家記憶 [再]</title>
-		<desc>該節目以歴史記録片為表現方式，記録国家重大歴史事件，人物伝記。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/182/182_182_GJJY_01.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch182" start="20250308100000 +0000" stop="20250308110000 +0000">
-		<title>中国新聞</title>
-		<desc>欄目宗旨是向全球華人傳遞最新、最快、最權威的新聞資訊。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/182/182_182_ZGXW_01.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch182" start="20250308110000 +0000" stop="20250308113000 +0000">
-		<title>中国新聞 [二]</title>
-		<desc>中国国内外の事件や事故、政治、経済、世界のニュースの解説に至るまでたっぷりお伝えする総合ニュース番組。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/182/182_182_ZGXW_01.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch182" start="20250308113000 +0000" stop="20250308114000 +0000">
-		<title>健康食品紹介　[二]</title>
+	<programme channel="hikaritv-ch181" start="20250310091500 +0000" stop="20250310093000 +0000">
+		<title>Direct Talk</title>
 		<desc />
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/182/182_182_LFN_02.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/181.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch181" start="20250310093000 +0000" stop="20250310100000 +0000">
+		<title>J-MELO</title>
+		<desc />
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/181.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch181" start="20250310100000 +0000" stop="20250310101800 +0000">
+		<title>NHK NEWSLINE</title>
+		<desc />
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/181.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch181" start="20250310101800 +0000" stop="20250310103000 +0000">
+		<title>NEWSLINE BIZ</title>
+		<desc />
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/181.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch181" start="20250310103000 +0000" stop="20250310110000 +0000">
+		<title>Where We Call Home</title>
+		<desc />
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/181.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch181" start="20250310110000 +0000" stop="20250310112700 +0000">
+		<title>NEWSROOM TOKYO</title>
+		<desc />
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/181.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch181" start="20250310112700 +0000" stop="20250310114000 +0000">
+		<title>NEWSLINE IN DEPTH</title>
+		<desc />
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/181.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch181" start="20250310114000 +0000" stop="20250310115500 +0000">
+		<title>Direct Talk</title>
+		<desc />
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/181.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch181" start="20250310115500 +0000" stop="20250310120000 +0000">
+		<title>Ukiyoe EDO-LIFE: Riverside Sawmill</title>
+		<desc />
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/181.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch181" start="20250310120000 +0000" stop="20250310123000 +0000">
+		<title>NEWSROOM TOKYO</title>
+		<desc />
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/181.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch182" start="20250308114000 +0000" stop="20250308123000 +0000">
 		<title>不完美受害人 #08 [字]</title>
@@ -4027,7 +4055,7 @@
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/182/182_182_JZXC_01.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch182" start="20250308163300 +0000" stop="20250308180000 +0000">
-		<title>愛在平凡 #11-12</title>
+		<title>愛在平凡 #07-08</title>
 		<desc>該劇講述了中華人民共和國成立初期，科研工作者紮根戈壁、奉獻青春的傳奇故事。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/182.jpg" />
 	</programme>
@@ -4321,15 +4349,35 @@
 		<desc />
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/182.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch251" start="20250308080000 +0000" stop="20250308094500 +0000">
-		<title>トランスポーター 【シリーズ一挙】</title>
-		<desc>製作、脚本リュック・べッソン。「契約厳守」「名前は聞かない」「依頼品は開けない」プロの運び屋をジェイソン・ステイサムが演じた人気サスペンス・アクション第1作。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/251/251_251_2503_250309.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch182" start="20250310091500 +0000" stop="20250310100000 +0000">
+		<title>遠方的家</title>
+		<desc>備受歡迎的旅遊欄目。宗旨是行走、體驗、發現，展示中国的自然與人文之美和中国人眼中的世界之美，弘揚深厚的中華文化。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/182/182_182_YFDJ_01.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch251" start="20250308094500 +0000" stop="20250308113000 +0000">
-		<title>トランスポーター２ 【シリーズ一挙】</title>
-		<desc>ジェイソン・ステイサム主演、リュック・べッソン製作・脚本の人気シリーズ第2弾。どんな“モノ”でも正確に届けるプロの運び屋が巨大な陰謀に巻き込まれる。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/251/251_251_2503_250310.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch182" start="20250310100000 +0000" stop="20250310103000 +0000">
+		<title>中国新聞</title>
+		<desc>欄目宗旨是向全球華人傳遞最新、最快、最權威的新聞資訊。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/182/182_182_ZGXW_01.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch182" start="20250310103000 +0000" stop="20250310110000 +0000">
+		<title>中国文芸</title>
+		<desc>節目致力將中華芸術精品文化介紹給海内外華人，傾力打造中国伝統和現代芸術的電視伝播平台。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/182/182_182_ZGWY_01.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch182" start="20250310110000 +0000" stop="20250310113000 +0000">
+		<title>中国新聞 [二]</title>
+		<desc>中国国内外の事件や事故、政治、経済、世界のニュースの解説に至るまでたっぷりお伝えする総合ニュース番組。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/182/182_182_ZGXW_01.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch182" start="20250310113000 +0000" stop="20250310120000 +0000">
+		<title>アジア・トゥデイ [二]</title>
+		<desc>身近でホットなアジアの話題をいち早く現場からお届けするニュース番組。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/182/182_182_JRYZ_01.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch182" start="20250310120000 +0000" stop="20250310121200 +0000">
+		<title>日本新聞 [二]</title>
+		<desc>日本国内のその日のニュースを中国語で放送する「大富」の自主制作番組。在日中国人社会の動向などもお伝えします。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/182/182_182_RBXW_01.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch251" start="20250308113000 +0000" stop="20250308133000 +0000">
 		<title>トランスポーター３ アンリミテッド 【シリーズ一挙】</title>
@@ -4436,10 +4484,10 @@
 		<desc>真鍋昌平の人気コミックを原作にしたTVドラマの劇場版第2弾。法外な金利で金を貸す闇金業者ウシジマ(丑嶋)を狂言回しに、金に踊らされる人々の悲喜劇を赤裸々に描く。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/251/251_251_2503_250316.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch252" start="20250308084500 +0000" stop="20250308091500 +0000">
-		<title>生活お役立ち情報</title>
-		<desc>この番組は生活に役立つお得なテレビショッピングをお届けします。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/252/252_252_252_1.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch251" start="20250310100000 +0000" stop="20250310123000 +0000">
+		<title>映画『闇金ウシジマくん Part3』 ◆山田孝之 主演</title>
+		<desc>真鍋昌平のコミックを、山田孝之主演で映像化したTVドラマの劇場版シリーズ第3作。詐欺まがいの情報商材に踊らされる若者と、キャバ嬢に入れ揚げた会社員を悲劇が待つ。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/251/251_251_2503_250317.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch252" start="20250308091500 +0000" stop="20250308120000 +0000">
 		<title>インデペンデンス・デイ【アカデミー賞大特集2025】</title>
@@ -4561,6 +4609,23 @@
 		<desc>[R15+]汚職警官の欲望が暴走する！ニコラス・ケイジ＆イライジャ・ウッド競演の犯罪サスペンス
 放送日：22、31</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/252/252_252_252_8506.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch252" start="20250310093000 +0000" stop="20250310100000 +0000">
+		<title>生活お役立ち情報</title>
+		<desc>この番組は生活に役立つお得なテレビショッピングをお届けします。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/252/252_252_252_1.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch252" start="20250310100000 +0000" stop="20250310120000 +0000">
+		<title>スピリットウォーカー※ザ・シネマ二番館</title>
+		<desc>記憶だけでなく肉体も失った──12時間ごとに違う人間の身体で目覚める男の死闘を描くSFアクション
+放送日：29</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/252/252_252_252_8490.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch252" start="20250310120000 +0000" stop="20250310141500 +0000">
+		<title>奈落のマイホーム</title>
+		<desc>新築マンションが地下500ｍへ転落！個性派キャラたちの決死の脱出劇を描くディザスター・パニック
+放送日：21、27</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/252/252_252_252_7913.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch260" start="20250308080000 +0000" stop="20250308122000 +0000">
 		<title>メディカルチーム　レディ・ダ・ヴィンチの診断（全10話）#1-5【週末イッキミドラマ】</title>
@@ -4707,16 +4772,10 @@
 		<desc>出演：高橋克典／大杉漣／高橋ひとみ　有能だが悪徳と評判の弁護士・如月隼人が、相棒の神田川と共に凶悪事件の全容を解明する異色サスペンス。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/260/260_260_260NH00019586.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch261" start="20250308072000 +0000" stop="20250308090500 +0000">
-		<title>ドクターハート　薮田公介の事件カルテ２【中村梅雀主演　２時間サスペンス】</title>
-		<desc>放送日／8 
-元天才マジシャンで天才心臓外科医の薮田公介が難事件に切り込んでいく人気シリーズ。出演：中村梅雀　浅田美代子(16年・120分)</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/261/261_261_NECO_202503_093.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch261" start="20250308090500 +0000" stop="20250308093500 +0000">
-		<title>インフォメーション</title>
-		<desc>各種インフォメーションをお届け</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/261/261_261_NECO_202503_004.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch260" start="20250310110000 +0000" stop="20250310130000 +0000">
+		<title>(映)ＧＴＯ（映画）</title>
+		<desc>出演：反町隆史／藤原紀香／田中麗奈　監督：鈴木雅之　大ヒットドラマの劇場版。元暴走族の型破りな熱血教師・鬼塚英吉の活躍ぶりを描く。（1999年　109分）</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/260/260_260_260NH00000068.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch261" start="20250308093500 +0000" stop="20250308120000 +0000">
 		<title>感染列島◆出演：妻夫木聡　檀れい</title>
@@ -4942,10 +5001,28 @@ YouTube動画を基に書籍化した、雨穴のベストセラー小説を映�
 鑑識と捜査の両方を手掛ける鑑識特捜班が事件の真相を追う！出演：渡辺えり　安達祐実　石原良純(12年・120分)</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/261/261_261_NECO_202503_114.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch280" start="20250308065000 +0000" stop="20250308090000 +0000">
-		<title>(映)(SS)ジュマンジ／ネクスト・レベル【人気シリーズ一挙放送ＳＰ第３弾！】</title>
-		<desc>ドウェイン・ジョンソン主演の大ヒットアドベンチャーの続編。２人のお爺ちゃんを交えた一行が、テレビゲームの世界で奮闘する。（１９年　米）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
+	<programme channel="hikaritv-ch261" start="20250310094000 +0000" stop="20250310101000 +0000">
+		<title>インフォメーション</title>
+		<desc>各種インフォメーションをお届け</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/261/261_261_NECO_202503_004.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch261" start="20250310101000 +0000" stop="20250310115000 +0000">
+		<title>エバース漫才記</title>
+		<desc>放送日／10 
+M−1グランプリ2024で爪痕を残したエバースが新作漫才を作るためロケに！出演：エバース（佐々木隆史　町田和樹）(25年・90分)</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/261/261_261_NECO_202503_115.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch261" start="20250310115000 +0000" stop="20250310120000 +0000">
+		<title>渋川・伊香保物語</title>
+		<desc>放送日／6・7・10・11・12・14・18・19・21・27 
+群馬県渋川市を舞台とした、こころが動くヒューマンドラマ。(25年・10分)</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/261/261_261_NECO_202503_070.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch261" start="20250310120000 +0000" stop="20250310140500 +0000">
+		<title>所轄刑事８　信州・安曇野〜白骨温泉売春組織に迫る復讐の剣【船越英一郎主演】</title>
+		<desc>放送日／10 
+生活安全課の警察官が事件を解決していくサスペンスシリーズ第8弾。出演：船越英一郎　的場浩司　赤坂泰彦(13年・120分)</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/261/261_261_NECO_202503_116.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch280" start="20250308090000 +0000" stop="20250308120000 +0000">
 		<title>(映)舘ひろし シネマラウンジ 第７回『ラブ・アクチュアリー』</title>
@@ -5067,11 +5144,15 @@ YouTube動画を基に書籍化した、雨穴のベストセラー小説を映�
 		<desc>スティーヴン・スピルバーグ監督の自伝的作品。両親と共に初めて映画館を訪れた少年が映画の虜となり、才能を開花させてゆく。［ＰＧ１２］（２２年　米）</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch290" start="20250308080000 +0000" stop="20250308100000 +0000">
-		<title>韓◆2024 LEE JEHOON FANMEETING in JAPAN『JEHOON's Favorite』</title>
-		<desc>◆イ・ジェフンSP◆
-イ・ジェフンの日本ファンミーティングから東京公演の模様を放送。ファンからの質問に答えたり、歌も披露。（2024年11月23日 有楽町よみうりホール）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/290/290_290_202503_EG_090.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch280" start="20250310100000 +0000" stop="20250310120000 +0000">
+		<title>(映)(SS)猿の惑星【歴代アカデミー賞受賞作３１選】</title>
+		<desc>猿の支配する惑星に不時着した男の驚愕の体験を描き、シリーズ化やリメイクが相次いだＳＦ映画の金字塔的作品。（６８年　米）</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch280" start="20250310120000 +0000" stop="20250310143000 +0000">
+		<title>(映)(SS)ポトフ　美食家と料理人【ＳＴＡＲセレクト９：編成部厳選】</title>
+		<desc>『青いパパイヤの香り』の名匠トラン・アン・ユンが、カンヌ映画祭で監督賞を受賞したドラマ。美食家と料理人の愛と人生を描く。（２３年　仏）</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch290" start="20250308100000 +0000" stop="20250308121500 +0000">
 		<title>韓◆金子文子と朴烈(字)【PG12】　▼イ・ジェフン、チェ・ヒソ</title>
@@ -5321,19 +5402,31 @@ YouTube動画を基に書籍化した、雨穴のベストセラー小説を映�
 2025年</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/290.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch291" start="20250308080000 +0000" stop="20250308100000 +0000">
-		<title>必殺博奕打ち</title>
-		<desc>博奕打ちシリーズ第7弾。
-出演：鶴田浩二／山本麟一
-1969年　94分</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/291/291_291_TOT000003697_0001.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch290" start="20250310091500 +0000" stop="20250310093000 +0000">
+		<title>みうらじゅんのザ・チープ＃１０「ラストテイク」＜オリジナル番組＞</title>
+		<desc>世の中のことは大体知っているみうらじゅんによるシニアのための教養（？）番組！
+第10回のテーマは「ラストテイク」
+2025年　15分</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/290/290_290_202503_EG_040.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch291" start="20250308100000 +0000" stop="20250308115000 +0000">
-		<title>博奕打ち　流れ者</title>
-		<desc>鶴田浩二主演の『博奕打ち』シリーズの第８作。
-出演：鶴田浩二／水島道太郎
-1970年　101分</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/291/291_291_TOT000001215_0001.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch290" start="20250310093000 +0000" stop="20250310113000 +0000">
+		<title>男はつらいよ 噂の寅次郎　▼渥美清、大原麗子</title>
+		<desc>旅先で再会した博の父に『今昔物語』の教えを聞かされ、人生の無情を悟った寅さんは、柴又に立ち寄り…。シリーズ第22作。
+1978年　105分</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/290/290_290_202503_EG_103.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch290" start="20250310113000 +0000" stop="20250310120000 +0000">
+		<title>特別番組「押井守とOVA」 前編【オリジナル番組】　▼押井守、吉田尚記</title>
+		<desc>日本を代表する作品を多く生み出したアニメ監督、押井守。OVAの歴史を切り開いてきた監督へのスペシャルインタビュー番組！
+2024年　30分</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/290/290_290_202503_EG_066.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch290" start="20250310120000 +0000" stop="20250310130000 +0000">
+		<title>華◆顔心記〜シェイプ・オブ・ラブ〜＃３(字)【日本初】　▼レオ・ロー</title>
+		<desc>▼ソン・イー
+&lt;顔が認識できない男&gt;と&lt;他人に変身できるヒロイン&gt;による中国での視聴数10億回突破の大ヒット・ラブロマンス時代劇！
+2024年　中国　43分　全40話</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/290/290_290_202503_EG_045.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch291" start="20250308115000 +0000" stop="20250308120000 +0000">
 		<title>番組案内</title>
@@ -5646,26 +5739,12 @@ YouTube動画を基に書籍化した、雨穴のベストセラー小説を映�
 出演:高倉健／菅原文太　1973年　102分</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/291/291_291_TOT000000140_0001.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch292" start="20250308080000 +0000" stop="20250308093000 +0000">
-		<title>日本統一22</title>
-		<desc>＜大人気極道巨編ドラマシリーズ第22弾＞
-2017年 日本 76分
-監督：濱水信
-出演：本宮泰風、山口祥行、小沢仁志、大沢樹生</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/292/292_292_2503015.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch292" start="20250308093000 +0000" stop="20250308100000 +0000">
-		<title>情報番組</title>
-		<desc>情報番組（PR）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/292/292_292_0000001.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch292" start="20250308100000 +0000" stop="20250308113000 +0000">
-		<title>日本統一外伝 山崎組 ジョウジと愉快な仲間たち</title>
-		<desc>＜山崎一門のメンバーを描くスピンオフ＞
-2023年 日本 72分
-監督：辻裕之
-出演：北代高士、本田広登、川崎健太、山口祥行、本宮泰風</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/292/292_292_2503020.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch291" start="20250310110000 +0000" stop="20250310123000 +0000">
+		<title>続べらんめぇ芸者</title>
+		<desc>出演:美空ひばり／高倉健／中原ひとみ／今井俊二／雪代敬子／山村聰／浪花千栄子
+監督:小石栄一　脚本:笠原良三／笠原和夫
+1960年83分</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/291/291_291_TOT000002072_0001.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch292" start="20250308113000 +0000" stop="20250308130000 +0000">
 		<title>日本統一64</title>
@@ -5932,28 +6011,28 @@ TV初 2024年 日本 38分
 		<desc>情報番組（PR）</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/292/292_292_0000001.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch350" start="20250308083000 +0000" stop="20250308090000 +0000">
-		<title>情報</title>
-		<desc>この時間は情報番組をお送りしております。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/350/350_350_350_NN10002635_99999.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch292" start="20250310093000 +0000" stop="20250310103000 +0000">
+		<title>どうにか貧乏家族 ＃232</title>
+		<desc>＜母はいずこに・・・。感動と興奮のパチンコパチスロ実践バラエティ＞
+2024年 日本 58分
+出演：木村魚拓、伊藤真一、くり、山田桃太郎</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/292/292_292_2503077.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch350" start="20250308090000 +0000" stop="20250308093000 +0000">
-		<title>こちら葛飾区亀有公園前派出所 傑作選</title>
-		<desc>#87「密着!危険なふたり」
-破天荒な警察官・両津勘吉と、仲間たちが繰り広げる痛快ギャグアニメ。選りすぐりのエピソードをピックアップ!＜制作:1996年＞</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/350/350_350_350_NN10000170_0087.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch292" start="20250310103000 +0000" stop="20250310120000 +0000">
+		<title>日本統一24</title>
+		<desc>＜豪華出演陣による極道巨編第24弾＞
+2017年 日本 90分
+監督：濱水信
+出演：本宮泰風、山口祥行、小沢仁志、大沢樹生</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/292/292_292_2503017.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch350" start="20250308093000 +0000" stop="20250308100000 +0000">
-		<title>ルパン三世(PART2) ベストセレクション</title>
-		<desc>#42「花嫁になったルパン」
-ルパン三世のセカンドシリーズが、デジタルリマスター版として高画質で登場！
-＜制作:1977年/全155話＞</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/350/350_350_350_NN00014703_99999.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch350" start="20250308100000 +0000" stop="20250308113000 +0000">
-		<title>名探偵コナン 毛利小五郎大講演会</title>
-		<desc>#925「毛利小五郎大講演会（前編）」#926「毛利小五郎大講演会（中編）」#927「毛利小五郎大講演会（後編）」原作:青山剛昌/制作:1996年</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/350/350_350_350_NN10000184_99999.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch292" start="20250310120000 +0000" stop="20250310133000 +0000">
+		<title>むこうぶち14 高レート裏麻雀列伝 相方</title>
+		<desc>＜豪華俳優陣共演の人気麻雀Vシネシリーズ＞
+2017年 日本 73分
+監督：片岡修二
+出演：袴田吉彦、ガダルカナル・タカ、手島優、杏さゆり</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/292/292_292_2503038.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch350" start="20250308113000 +0000" stop="20250308120000 +0000">
 		<title>SAKAMOTO DAYS #7</title>
@@ -6236,26 +6315,28 @@ TV初 2024年 日本 38分
 原作:松井優征/制作:2024年</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/350/350_350_350_NN10002938_99999.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch351" start="20250308080000 +0000" stop="20250308090000 +0000">
-		<title>TVアニメ「ピアノの森」 #17，18</title>
-		<desc>＃１７「審議は踊る」＃１８「レクイエム」</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/351/351_351_351_KS11001990_99999.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch350" start="20250310100000 +0000" stop="20250310103000 +0000">
+		<title>るろうに剣心 −明治剣客浪漫譚− 京都動乱 #42</title>
+		<desc>第四十二話
+色褪せることのない、王道にして普遍的な物語、登場人物たちの苛烈な信念を、今再び鮮烈に映し出す…。＜制作:2024年＞</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/350/350_350_350_NN10002959_99999.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch351" start="20250308090000 +0000" stop="20250308093000 +0000">
-		<title>新あたしンち セレクション #2</title>
-		<desc>第2話「みかん、初期化される/この町も長いわね/父は器が大きい」他愛のない日常生活をテーマに思わず笑ってしまうタチバナ家の姿は「ニッポン」の家族そのもの！？</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/351/351_351_351_KS11001638_0002.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch350" start="20250310103000 +0000" stop="20250310110000 +0000">
+		<title>魔王の俺が奴隷エルフを嫁にしたんだが #6</title>
+		<desc>『魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？』#6「魔王になったからには傍若無人に振る舞う義務みたいなものがある」原作:手島史詞/制作:2024年/全12話</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/350/350_350_350_NN10002976_99999.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch351" start="20250308093000 +0000" stop="20250308100000 +0000">
-		<title>ポケットモンスター（2023年） #79</title>
-		<desc>第79話「オーバー・ザ・トップ」
-ポケットモンスター、縮めてポケモン。この星の不思議な不思議な生き物。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/351/351_351_351_KS11001972_99999.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch350" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>SPY×FAMILY（スパイファミリー） #27,28</title>
+		<desc>MISSION:27,28「ダミアンの野外学習／ボンドの生存戦略」「任務と家族／華麗なるボンドマン／子ども心／目覚まし」
+原作:遠藤達哉/制作:2023年</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/350/350_350_350_NN10002687_99999.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch351" start="20250308100000 +0000" stop="20250308114500 +0000">
-		<title>劇場版 響け！ユーフォニアム〜誓いのフィナーレ〜</title>
-		<desc>昨年度の全日本吹奏楽コンクールに出場を果たした北宇治高校吹奏楽部。2年生の黄前久美子は3年生の加部友恵と、4月から新しく入った1年生の指導にあたることになる。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/351/351_351_351_KS11002056_99999.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch350" start="20250310120000 +0000" stop="20250310130000 +0000">
+		<title>ドラゴンボール改 #61,62</title>
+		<desc>#61「19号に勝機なし！遅れてきた超ベジータ」#62「ピッコロ強襲！消えた20号とねじれる未来」
+＜制作:2009年/全159話＞</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/350/350_350_350_NN10002108_99999.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch351" start="20250308114500 +0000" stop="20250308120000 +0000">
 		<title>宇宙なんちゃら こてつくん セレクション #30</title>
@@ -6539,35 +6620,27 @@ TV初 2024年 日本 38分
 		<desc>＃２１「自分自身のため」＃２２「終わらない夢」</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/351/351_351_351_KS11002052_0021.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch352" start="20250308083000 +0000" stop="20250308090000 +0000">
-		<title>トムとジェリー ショー #107(二)</title>
-		<desc>＜消えた靴下/カボチャを守れ/おばけがこわい！＞あのお騒がせコンビ、トムとジェリ—が帰って来た！家族みんなが楽しめるネコとネズミの傑作短編シリーズ。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/352/352_352_CN0000005925_0107.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch351" start="20250310100000 +0000" stop="20250310103000 +0000">
+		<title>『FARMAGIA』 #7</title>
+		<desc>第7話
+モンスターを種から育て収穫し共存する平和な魔界フェリシダに訪れる危機。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/351/351_351_351_KS11002049_99999.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch352" start="20250308090000 +0000" stop="20250308093000 +0000">
-		<title>ティーン・タイタンズＧＯ！ #140(二)</title>
-		<desc>＜ジャスティス・リーグ　３年目のオーディション　パート１/パート２＞人気アメコミ「ティーン・タイタンズ」たちが、ちびキャラに！抱腹絶倒のギャグアニメシリーズ。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/352/352_352_CN0000235981_0139.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch351" start="20250310103000 +0000" stop="20250310110000 +0000">
+		<title>銀魂 #26</title>
+		<desc>第２６話「恥ずかしがらずに手を挙げて言え」
+空知英秋原作、大人気コミックとなった同名作品のアニメ化。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/351/351_351_351_KS00103656_99999.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch352" start="20250308093000 +0000" stop="20250308100000 +0000">
-		<title>ティーン・タイタンズＧＯ！ #141(二)</title>
-		<desc>＜夜よ、かがやけ続編 パート１/夜よ、かがやけ続編 パート２＞人気アメコミ「ティーン・タイタンズ」たちが、ちびキャラに！抱腹絶倒のギャグアニメシリーズ。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/352/352_352_CN0000235981_0141.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch351" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>め組の大吾 救国のオレンジ #15，16</title>
+		<desc>＃１５「特命出場」＃１６「モールス信号」</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/351/351_351_351_KS11001997_99999.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch352" start="20250308100000 +0000" stop="20250308103000 +0000">
-		<title>おかしなガムボール #118(二)</title>
-		<desc>＜やっぱり親友はひとりだけ/秘密諜報員ガムボール ＞１２歳の青いネコのガムボールと金魚のダーウィンは親友。視覚的にも面白い奇想天外なナンセンス・コメデイ。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/352/352_352_CN0000002785_0124.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch352" start="20250308103000 +0000" stop="20250308110000 +0000">
-		<title>おかしなガムボール #119(二)</title>
-		<desc>＜決められないダーウィン/パソコンの正しい使い方＞１２歳の青いネコのガムボールと金魚のダーウィンは親友。視覚的にも面白い奇想天外なナンセンス・コメデイ。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/352/352_352_CN0000002785_0125.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch352" start="20250308110000 +0000" stop="20250308113000 +0000">
-		<title>おかしなガムボール #120(二)</title>
-		<desc>＜エルモア追放/エルモアの未来＞１２歳の青いネコのガムボールと金魚のダーウィンは親友。視覚的にも面白い奇想天外なナンセンス・コメデイ。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/352/352_352_CN0000002785_0126.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch351" start="20250310120000 +0000" stop="20250310130000 +0000">
+		<title>青のオーケストラ #19，20</title>
+		<desc>＃１９「君として」＃２０「夏の居場所」</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/351/351_351_351_KS11002031_0019.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch352" start="20250308113000 +0000" stop="20250308120000 +0000">
 		<title>おかしなガムボール #121(二)</title>
@@ -7000,16 +7073,35 @@ TV初 2024年 日本 38分
 		<desc>＜インターネットの罠/ママを取り返せ！＞12歳の青いネコのガムボールと金魚のダーウィンは親友。視覚的にも面白い奇想天外なナンセンス・コメデイ。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/352/352_352_CN0000002785_0037.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch380" start="20250308053000 +0000" stop="20250308113000 +0000">
-		<title>VTuberなんだが配信切り忘れたら伝説になってた #01-#12</title>
-		<desc>全12話を一挙に放送！
-【全12話】2024年放送作品</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/380.jpg" />
+	<programme channel="hikaritv-ch352" start="20250310093000 +0000" stop="20250310100000 +0000">
+		<title>おかしなガムボール #38(二)</title>
+		<desc>＜ステキな町、エルモア/ハッピーエンドじゃ終わらない＞12歳の青いネコのガムボールと金魚のダーウィンは親友。視覚的にも面白い奇想天外なナンセンス・コメデイ。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/352/352_352_CN0000002785_0038.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch380" start="20250308113000 +0000" stop="20250308114000 +0000">
-		<title>番組紹介</title>
-		<desc>この時間はAT-Xの番組紹介を放送します</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/380.jpg" />
+	<programme channel="hikaritv-ch352" start="20250310100000 +0000" stop="20250310103000 +0000">
+		<title>トムとジェリー テイルズ #13(二)</title>
+		<desc>＜ピンチ！失業したトム/太りすぎにご用心/他＞2005年に、短編の作品としては約30年ぶりに制作されたシリーズ。トムとジェリーが美しい映像で現代によみがえる！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/352/352_352_CN0000000CCE_0013.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch352" start="20250310103000 +0000" stop="20250310110000 +0000">
+		<title>トムとジェリー テイルズ #14(二)</title>
+		<desc>＜禅パワーでフラッフラ/ジェリーの魔法のランプ/他＞2005年に、短編の作品としては約30年ぶりに制作されたシリーズ。トムとジェリーが美しい映像で現代によみがえる！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/352/352_352_CN0000000CCE_0014.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch352" start="20250310110000 +0000" stop="20250310113000 +0000">
+		<title>アドベンチャー・タイム #91(二)</title>
+		<desc>【声】朴ろ美、斎藤志郎、田中理恵。不思議なウー大陸を舞台に、ヒーローになりたい１２歳の少年フィンと特別な力が使える親友の犬ジェイクのシュールなコメディアニメ。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/352/352_352_CN0000003285_0091.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch352" start="20250310113000 +0000" stop="20250310120000 +0000">
+		<title>アドベンチャー・タイム #92(二)</title>
+		<desc>【声】朴ろ美、斎藤志郎、田中理恵。不思議なウー大陸を舞台に、ヒーローになりたい１２歳の少年フィンと特別な力が使える親友の犬ジェイクのシュールなコメディアニメ。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/352/352_352_CN0000003285_0092.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch352" start="20250310120000 +0000" stop="20250310123000 +0000">
+		<title>ケロロ軍曹 #347</title>
+		<desc>ガンプラが大好きなケロロ軍曹の人気TVアニメシリーズ。「機動戦士ガンダム」シリーズやマンガ、アニメなどのパロディ満載のコメディ。声の出演に、渡辺久美子ほか</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/352/352_352_CN0000246262_0347.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch380" start="20250308114000 +0000" stop="20250308120000 +0000">
 		<title>ワカコ酒 #01-#04</title>
@@ -7321,30 +7413,33 @@ TV初 2024年 日本 38分
 【全12話】2024年放送作品</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/380.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch451" start="20250308080000 +0000" stop="20250308090000 +0000">
-		<title>オール・ライズ2[字][5.1]#11 第２のチャンス</title>
-		<desc>出演:シモーヌ・ミシック
-ネスはエミリーの下で職業体験をすることに。エミリーが弁護するジュリアンは、青年を襲って限定モデルのスニーカーを奪った罪に問われている。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/451/451_451_SD0000008282.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch380" start="20250310100000 +0000" stop="20250310103000 +0000">
+		<title>WIND BREAKER #01</title>
+		<desc>#01 サクラとフウリン
+【全13話】2024年放送作品</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/380.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch451" start="20250308090000 +0000" stop="20250308093000 +0000">
-		<title>インフォメーション</title>
-		<desc>この時間は情報番組をお送りしております。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/451.jpg" />
+	<programme channel="hikaritv-ch380" start="20250310103000 +0000" stop="20250310110000 +0000">
+		<title>夜桜さんちの大作戦 #04</title>
+		<desc>#04 嫌五/辛三
+【全27話】2024年放送作品</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/380.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch451" start="20250308093000 +0000" stop="20250308103000 +0000">
-		<title>S.W.A.T.7[二]#9 ハニートラップ</title>
-		<desc>出演:シェマー・ムーア、デヴィッド・リム
-声の出演:咲野俊介、加藤和樹
-女性4人組の「ハニートラッパーズ」と呼ばれるグループ。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/451/451_451_SD0000011021.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch380" start="20250310110000 +0000" stop="20250310113000 +0000">
+		<title>青の祓魔師 終夜篇 #10</title>
+		<desc>#10 光</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/380.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch451" start="20250308103000 +0000" stop="20250308110000 +0000">
-		<title>ビッグバン★セオリー選 ファイナル[二]#12 繁殖命題の法則</title>
-		<desc>出演:ジョニー・ガレッキ、ジム・パーソンズ
-声の出演:千々和竜策
-バーナデットとエイミーと一緒にバーで女子会を楽しんでいたペニーは、元カレのザックに遭遇する。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/451/451_451_SD0000002281.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch380" start="20250310113000 +0000" stop="20250310120000 +0000">
+		<title>ダンジョンに出会いを求めるのは間違っているだろうかV #13</title>
+		<desc>#13 逆襲（リベンジ）</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/380.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch380" start="20250310120000 +0000" stop="20250310123000 +0000">
+		<title>黒執事 -寄宿学校編- #08</title>
+		<desc>#08 その執事、施錠
+【全11話】2024年放送作品</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/380.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch451" start="20250308110000 +0000" stop="20250308120000 +0000">
 		<title>オール・ライズ2[字][5.1]#4 意外な訪問者</title>
@@ -7687,29 +7782,30 @@ TV初 2024年 日本 38分
 オリエント号に乗ってメルボルンへ帰国した令嬢ミス・フライニー・フィッシャー。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/451/451_451_SD0000010581.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch452" start="20250308074000 +0000" stop="20250308090000 +0000">
-		<title>MAJOR CRIMES 〜重大犯罪課 6 (字) #3</title>
-		<desc>第3話「聖域都市 パート3」
-「クローザー」のスピンオフ・シリーズ！重大犯罪課のチーフ、レイダー警部が司法取引で事件を解決！ついにファイナル・シーズン</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/452/452_452_452_XX10001666_00003.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch451" start="20250310093000 +0000" stop="20250310103000 +0000">
+		<title>探偵ミス・フィッシャー〜華麗なる事件簿〜1[字]#2 急行列車の怪(帯)</title>
+		<desc>出演:エシー・デイヴィス
+新車を受け取りにメイドのドットを連れて列車に乗っていたフィッシャーは乗り合わせた女性ユーニスを救うため護身用のピストルを使ってしまう。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/451/451_451_SD0000010581.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch452" start="20250308090000 +0000" stop="20250308095500 +0000">
-		<title>プロファイリング　パリ犯罪捜査課 2 (字) #1</title>
-		<desc>第1話「理想の家」
-犯罪学専門のプロファイラーと、パリ司法警察の捜査チームが難事件を解決！</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/452/452_452_452_XX10001800_00001.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch451" start="20250310103000 +0000" stop="20250310110000 +0000">
+		<title>インフォメーション</title>
+		<desc>この時間は情報番組をお送りしております。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/451.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch452" start="20250308095500 +0000" stop="20250308105000 +0000">
-		<title>プロファイリング　パリ犯罪捜査課 2 (字) #2</title>
-		<desc>第2話「人の子」
-犯罪学専門のプロファイラーと、パリ司法警察の捜査チームが難事件を解決！</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/452/452_452_452_XX10001800_00002.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch451" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>ベティ〜愛と裏切りの秘書室　第一部[二]#30 昇進で傷心</title>
+		<desc>出演:アナ・マリア・オロスコ、ホルヘ・エンリケ・アベリョ
+声の出演:藤貴子、新垣樽助
+アルマンドはウーゴと和解しようと話し合いを求める。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/451/451_451_SD0000011042.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch452" start="20250308105000 +0000" stop="20250308115000 +0000">
-		<title>プロファイリング　パリ犯罪捜査課 2 (字) #3</title>
-		<desc>第3話「母の面影」
-犯罪学専門のプロファイラーと、パリ司法警察の捜査チームが難事件を解決！</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/452/452_452_452_XX10001800_00003.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch451" start="20250310120000 +0000" stop="20250310130500 +0000">
+		<title>ザ・サーペント[二]#5 エピソード5【イチオシアワー】</title>
+		<desc>出演:タハール・ラヒム、ビリー・ハウル
+声の出演:阪口周平、細谷佳正
+警察はついにシャルルたち3人の容疑者の身柄を確保する。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/451/451_451_SD0000011143.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch452" start="20250308115000 +0000" stop="20250308125000 +0000">
 		<title>プロファイリング　パリ犯罪捜査課 2 (字) #4</title>
@@ -7981,17 +8077,28 @@ TV初 2024年 日本 38分
 シカゴの街を命がけで守る、熱き消防隊員たちによる大ヒットレスキュー・アクション！</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/452/452_452_452_XX10001780_00014.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch455" start="20250308070000 +0000" stop="20250308090000 +0000">
-		<title>バーナビー警部 #37 (字)</title>
-		<desc>愛憎の終幕
-イギリスで長年愛され、現在も高い人気を誇るドラマシリーズ。ベテラン刑事バーナビーが事件の解明に挑んでいく！</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/455/455_455_455_MY10001385_00037.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch452" start="20250310100000 +0000" stop="20250310105000 +0000">
+		<title>ロレンツォ＆レックス〜ローマ警察シェパード犬刑事 3 (字) #7</title>
+		<desc>第7話「真実の言葉」
+世界遺産の街ローマが舞台！ロレンツォ警部とシェパード犬のレックスが事件を解決！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/452/452_452_452_XX10001821_00007.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch455" start="20250308090000 +0000" stop="20250308110000 +0000">
-		<title>バーナビー警部 #38 (字)</title>
-		<desc>死を招く魔性の花
-イギリスで長年愛され、現在も高い人気を誇るドラマシリーズ。ベテラン刑事バーナビーが事件の解明に挑んでいく！</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/455/455_455_455_MY10001385_00038.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch452" start="20250310105000 +0000" stop="20250310114500 +0000">
+		<title>ロレンツォ＆レックス〜ローマ警察シェパード犬刑事 3 (字) #8</title>
+		<desc>第8話「星の名前」
+世界遺産の街ローマが舞台！ロレンツォ警部とシェパード犬のレックスが事件を解決！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/452/452_452_452_XX10001821_00008.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch452" start="20250310114500 +0000" stop="20250310120000 +0000">
+		<title>ショッピング・インフォメーション </title>
+		<desc>通信販売番組</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/452.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch452" start="20250310120000 +0000" stop="20250310125500 +0000">
+		<title>フラッシュポイント -特殊機動隊SRU- 3 (字) #5【独占日本初】</title>
+		<desc>第5話「真実の在りか」
+実在の緊急機動部隊にヒントを得たカナダ発のポリスアクションドラマ！シーズン3！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/452/452_452_452_XX10001826_00005.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch455" start="20250308110000 +0000" stop="20250308130000 +0000">
 		<title>バーナビー警部 #39 (字)</title>
@@ -8180,26 +8287,11 @@ MI6の凄腕スパイ・シルヴィアが、イタリアで名探偵となっ�
 "ニュージーランドのバーナビー警部"とも称され、世界中で人気のミステリーのシーズン８！（2022年）</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/455/455_455_455_MY10001877_00004.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch460" start="20250308050000 +0000" stop="20250308090000 +0000">
-		<title>剣客商売４＃３-６　▼藤田まこと、山口馬木也／原作：池波正太郎</title>
-		<desc>≪週末「鬼平・剣客劇場」≫
-藤田まこと主演の大ヒットシリーズ第4弾！
-#3 14:00/#4 15:00/#5 16:00/#6 17:00
-2003年　全11話</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/460/460_460_202503_HD_009.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch460" start="20250308090000 +0000" stop="20250308093000 +0000">
-		<title>インフォメーション</title>
-		<desc>通販情報番組</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/460/460_460_HDC_TV_logo.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch460" start="20250308093000 +0000" stop="20250308103000 +0000">
-		<title>大都会 PART2＃２２　▼石原裕次郎、渡哲也、松田優作</title>
-		<desc>≪石原プロモーション制作ドラマ総力特集≫
-＃２２「最後の戦場」
-「大都会」シリーズの第2弾。前作の主要キャストに松田優作がレギュラー加入。
-1977-78年　47分　全…</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/460/460_460_202503_HD_004.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch455" start="20250310110000 +0000" stop="20250310130000 +0000">
+		<title>フランス絶景ミステリー コレクション オスゴール (字)</title>
+		<desc>【フレンチ・ミステリー】オスゴール
+フランスの美しい観光地を舞台にしたミステリードラマ。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/455/455_455_455_MY10001199_00064.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch460" start="20250308103000 +0000" stop="20250308133000 +0000">
 		<title>西部警察 PART-2＃３４-３６　▼渡哲也、三浦友和、舘ひろし</title>
@@ -8494,10 +8586,33 @@ MI6の凄腕スパイ・シルヴィアが、イタリアで名探偵となっ�
 2013年　93分</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/460/460_460_202503_HD_068.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch461" start="20250308080000 +0000" stop="20250308100000 +0000">
-		<title>[2K]三屋清左衛門残日録　ふたたび咲く花【オリジナル時代劇】</title>
-		<desc>出演：北大路欣也／優香／松田悟志　監督：山下智彦　原作：藤沢周平　ある家族が抱える問題と闇の思惑に清左衛門が迫る、大人気オリジナル時代劇シリーズ第７作（2023年）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/461/461_461_461JD00021021.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch460" start="20250310100000 +0000" stop="20250310103000 +0000">
+		<title>デカ盛りハンター(2022/7/29 O.A.)【ＣＳ初放送】</title>
+		<desc>≪デカ盛りバラエティ≫
+人気【海老名サービスエリア】で賞金100万円の新企画「重量当て爆食バトル」3キロピッタリ食べられるのか「胃で量る」奇跡連発！
+2022年　24分</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/460/460_460_202503_HD_069.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch460" start="20250310103000 +0000" stop="20250310110000 +0000">
+		<title>デカ盛りハンター(2022/8/12 O.A.)【ＣＳ初放送】</title>
+		<desc>≪デカ盛りバラエティ≫
+東大美女ハンターが汗だく爆食！旨くて辛い総重量4キロ！カップ麺になった人気ラーメン【旨辛麺】の超デカ盛りに挑戦！
+2022年　24分</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/460/460_460_202503_HD_070.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch460" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>スーパーサラリーマン左江内氏＃４　▼堤真一、小泉今日子</title>
+		<desc>▼ムロツヨシ、中村倫也
+歪だけれど愛にあふれた家族ドラマ！藤子・Ｆ・不二雄の名作が、コメディーの奇才・福田雄一の手で現代に蘇る！
+2017年　46分　全10話</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/460/460_460_202503_HD_031.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch460" start="20250310120000 +0000" stop="20250310132000 +0000">
+		<title>韓◆ハピネス -守りたいもの-＃６(字)　▼ハン・ヒョジュ、パク・ヒョンシク</title>
+		<desc>【ノーカット版】
+謎の感染症が蔓延する近未来を舞台に階層社会の縮図であるマンション内での生存を賭けた戦いを描くサバイバルスリラー！
+2021年　63分　全12話</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/460/460_460_202503_HD_032.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch461" start="20250308100000 +0000" stop="20250308120000 +0000">
 		<title>[2K]三屋清左衛門残日録　春を待つこころ【オリジナル時代劇】【チャンネル初】</title>
@@ -8736,10 +8851,20 @@ MI6の凄腕スパイ・シルヴィアが、イタリアで名探偵となっ�
 ゲスト：江幡高志</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/461/461_461_461JD00000132.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch470" start="20250308083000 +0000" stop="20250308093000 +0000">
-		<title>乃木坂46アンダードキュメンタリー〜36thSGアンダーライブ舞台裏〜</title>
-		<desc>乃木坂46のアンダー密着ドキュメンタリー！「36thSGアンダーライブ」の舞台裏映像を通して、ファンにもメンバーにも愛される“アンダラ”の魅力伝える。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/470.jpg" />
+	<programme channel="hikaritv-ch461" start="20250310100000 +0000" stop="20250310110000 +0000">
+		<title>銭形平次（主演：北大路欣也） #8【北大路欣也・八つの輝き】</title>
+		<desc>「証言の秘密」出演：北大路欣也／真野あずさ／三波豊和　原作：野村胡堂　北大路欣也版『銭形平次』第1シリーズ。（1991年・全18話）</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/461/461_461_461JD00008462.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch461" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>[2K]長七郎江戸日記１＜４Kデジタル・ニューマスター版＞ #73</title>
+		<desc>「大江戸警備隊始末」出演：里見浩太朗／野川由美子／下川辰平　華麗な二刀流で悪を斬る、痛快娯楽時代劇が最新技術で鮮やかに甦る！（1983〜86年・全118話）</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/461/461_461_461JD00023843.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch461" start="20250310120000 +0000" stop="20250310125500 +0000">
+		<title>大江戸捜査網２０１５〜隠密同心、悪を斬る！ #1【BS・CS初】</title>
+		<desc>出演：高橋克典／松岡昌宏／藤原紀香　隠密同心たちが江戸の悪を切り捨てていく痛快時代劇が、23年の時を経て2015年に復活！（2015年・全5話）</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/461/461_461_461JD00024301.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch470" start="20250308093000 +0000" stop="20250308120000 +0000">
 		<title>乃木坂46 36thSGアンダーライブ</title>
@@ -8931,20 +9056,20 @@ MI6の凄腕スパイ・シルヴィアが、イタリアで名探偵となっ�
 		<desc>渡瀬恒彦主演「十津川警部」シリーズ第45弾。亀井刑事が志賀高原で出会った美女が目の前で狙撃され、死亡する。被害者がお守りに込めた思いとは…。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/470.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch471" start="20250308080000 +0000" stop="20250308090000 +0000">
-		<title>日曜劇場「放蕩かっぽれ節」◆渥美清【時代劇特集】</title>
-		<desc>東芝日曜劇場で放送された名作。長屋中の鼻つまみ者・らくだがフグを食べて死んだ。みんな喜ぶ中、らくだの友人・半次が現れ、香典を出せと暴れ出す。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/471.jpg" />
+	<programme channel="hikaritv-ch470" start="20250310103000 +0000" stop="20250310110000 +0000">
+		<title>TBSチャンネルショッピング</title>
+		<desc>選りすぐりの商品をご紹介します！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/470.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch471" start="20250308090000 +0000" stop="20250308110000 +0000">
-		<title>日曜劇場「出航」(1300回記念番組)</title>
-		<desc>日曜劇場1300回記念として、山田洋次が親の愛・子の巣立ちをテーマに人生をみつめた感動巨編。日曜劇場では珍しい海外ロケ（サンフランシスコ）を敢行。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/471.jpg" />
+	<programme channel="hikaritv-ch470" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>橋田壽賀子ドラマ「渡る世間は鬼ばかり」(第7シリーズ) #24</title>
+		<desc>橋田壽賀子脚本による国民的ホームドラマ第7シリーズ。時代と共に変わる親・子・孫、様々な家族の姿を描く。藤岡琢也が岡倉大吉を演じた最後のシリーズ。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/470.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch471" start="20250308110000 +0000" stop="20250308113000 +0000">
-		<title>テレビがくれた夢 石井ふく子</title>
-		<desc>テレビ番組の制作に深くかかわったスタッフをゲストに迎えて、名作の知られざるエピソードを紹介するTBSチャンネルのオリジナル番組。ゲスト：石井ふく子</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/471.jpg" />
+	<programme channel="hikaritv-ch470" start="20250310120000 +0000" stop="20250310131000 +0000">
+		<title>韓国ドラマ「キム課長とソ理事」ノーカット字幕版 #11</title>
+		<desc>2大カリスマ俳優が夢の競演！コミカル“神”演技ナムグン・ミンVSニヒルな敵役2PMジュノ。恋も仕事も真っ直ぐな正義の最強タッグが贈るオフィスラブコメディ。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/470.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch471" start="20250308113000 +0000" stop="20250308120000 +0000">
 		<title>TBSレビュー #374 96歳 石井ふく子 新作に挑む</title>
@@ -9216,15 +9341,20 @@ MI6の凄腕スパイ・シルヴィアが、イタリアで名探偵となっ�
 		<desc>山下真司主演。高校ラグビー界において全く無名の高校が、わずか7年で全国優勝を成し遂げる。“泣き虫先生”の7年間の熱い戦いがHDリマスター版でよみがえる！</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/471.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch552" start="20250308082000 +0000" stop="20250308095000 +0000">
-		<title>シンクロユー　[字]</title>
-		<desc>日本初放送！AIが作り出す99％のシンクロ率の中に隠された本物の1％の特別さを探し出すバラエティーミュージックショー！　2024年　全12回</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/552/552_552_552_vasync_16x9.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch471" start="20250310095000 +0000" stop="20250310104000 +0000">
+		<title>スクール・ウォーズ(HDリマスター版) #2</title>
+		<desc>山下真司主演。高校ラグビー界において全く無名の高校が、わずか7年で全国優勝を成し遂げる。“泣き虫先生”の7年間の熱い戦いがHDリマスター版でよみがえる！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/471.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch552" start="20250308095000 +0000" stop="20250308105000 +0000">
-		<title>家事をする男たち　シーズン２　[字]</title>
-		<desc>日本初放送！韓国のスターたちが家事に奮闘するリアルバラエティ！韓国放送日：2021年9月18日〜</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/552/552_552_552_vakajo323_16x9.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch471" start="20250310104000 +0000" stop="20250310113000 +0000">
+		<title>スクール・ウォーズ(HDリマスター版) #3</title>
+		<desc>山下真司主演。高校ラグビー界において全く無名の高校が、わずか7年で全国優勝を成し遂げる。“泣き虫先生”の7年間の熱い戦いがHDリマスター版でよみがえる！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/471.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch471" start="20250310113000 +0000" stop="20250310122000 +0000">
+		<title>スクール・ウォーズ(HDリマスター版) #4</title>
+		<desc>山下真司主演。高校ラグビー界において全く無名の高校が、わずか7年で全国優勝を成し遂げる。“泣き虫先生”の7年間の熱い戦いがHDリマスター版でよみがえる！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/471.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch552" start="20250308105000 +0000" stop="20250308121000 +0000">
 		<title>ブレインズ 〜頭脳共助〜 　#1　[字][再][初]</title>
@@ -9426,20 +9556,20 @@ MI6の凄腕スパイ・シルヴィアが、イタリアで名探偵となっ�
 		<desc>地理的環境に人々の息づかいと知恵が合わさったその地域の代表食を紹介する新ドキュメンタリー！</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/552/552_552_552_jhkanko565_16x9.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch553" start="20250308083000 +0000" stop="20250308090000 +0000">
-		<title>お役立ち生活情報・アジアドラマチックTVからのお知らせ</title>
-		<desc>アジアドラマチックTVから皆さんにお得な情報をお知らせいたします。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/553/553_553_553000251.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch552" start="20250310100000 +0000" stop="20250310111500 +0000">
+		<title>パフューム〜恋のリミットは１２時間〜　#14　[字]</title>
+		<desc>シン・ソンロク主演!不思議な香水によって20代の頃の自分に変身！？夫に裏切られ人生のどん底に落ちた主婦に第2の人生が訪れるファンタジー　ラブロマンス！ 2019年 全16話</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/552/552_552_552_drperfum_16x9.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch553" start="20250308090000 +0000" stop="20250308101200 +0000">
-		<title>[韓]#05 太陽の末裔 Love Under The Sun&lt;字&gt;◆ソン・ジュンギ</title>
-		<desc>【韓国ドラマ】第5話(本編60分)&lt;字&gt;(全16話)　出演：ソン・ジュンギ、ソン・へギョ他　制作：韓国 2016年</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/553/553_553_553000583.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch552" start="20250310111500 +0000" stop="20250310120000 +0000">
+		<title>結婚しよう、メンコンア！（原題）　#70　[字]</title>
+		<desc>日本初放送！離婚、再婚、卒婚など結婚の多様な姿を見せながら'幸せ'の本当の意味を知っていく、すべての世代の共感と笑いを誘う愉快な家族ドラマ！ 2024年　全120話(予定)</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/552/552_552_552_drmenk1_16x9.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch553" start="20250308101200 +0000" stop="20250308110000 +0000">
-		<title>お役立ち生活情報・お知らせ </title>
-		<desc>アジアドラマチックTVから皆さんにお得な情報をお知らせいたします。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/553/553_553_553000251.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch552" start="20250310120000 +0000" stop="20250310130000 +0000">
+		<title>生放送　ＫＢＳニュース９　[生]</title>
+		<desc>リアルタイムで最新韓国情報をいち早くお届け！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/552/552_552_552_news9_16x9.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch553" start="20250308110000 +0000" stop="20250308121200 +0000">
 		<title>[韓]#06 太陽の末裔 Love Under The Sun&lt;字&gt;◆ソン・ジュンギ</title>
@@ -9716,25 +9846,30 @@ MI6の凄腕スパイ・シルヴィアが、イタリアで名探偵となっ�
 		<desc>【中国ドラマ】第16話(本編38分)&lt;字&gt;(全24話)　出演：ウー・シーザー他　制作：中国 2023年</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/553/553_553_553000578.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch554" start="20250308083000 +0000" stop="20250308090000 +0000">
-		<title>ザ・純烈ショー！3 #7</title>
-		<desc>ザ・純烈ショー３！純烈メンバーによる本気のバトル？！おなじみ歌謡ショーも必見！！第７話「純烈ボートレースバトル！酒井ＶＳ白川ＶＳ山本　前編」（２０２０年制作）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/554/554_554_MD0000247422_0007.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch553" start="20250310092700 +0000" stop="20250310100000 +0000">
+		<title>お役立ち生活情報・お知らせ </title>
+		<desc>アジアドラマチックTVから皆さんにお得な情報をお知らせいたします。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/553/553_553_553000251.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch554" start="20250308090000 +0000" stop="20250308100000 +0000">
-		<title>パチスロ常勝理論！ #474</title>
-		<desc>パチスロライターのポロリと、ワサビ、伊藤真一がパチスロで常勝するための方法をホール実戦で実証する。期待値を追う立ち回りの神髄がここにある！</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/554/554_554_MD0000060771_0474.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch553" start="20250310100000 +0000" stop="20250310103000 +0000">
+		<title>お役立ち生活情報・アジアドラマチックTVからのお知らせ</title>
+		<desc>アジアドラマチックTVから皆さんにお得な情報をお知らせいたします。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/553/553_553_553000251.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch554" start="20250308100000 +0000" stop="20250308110000 +0000">
-		<title>飛行機没収！大作戦 シーズン1 #9</title>
-		<desc>飛行機を債務不履行者から取り戻す男たちの危険な任務に密着！　Ｅｐｉｓｏｄｅ　９</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/554/554_554_MD0000252073_0009.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch553" start="20250310103000 +0000" stop="20250310111500 +0000">
+		<title>[韓]#81 愛よ、お願い&lt;字&gt;【王道の逆転愛憎劇！】</title>
+		<desc>【韓国ドラマ】第81話(本編30分)&lt;字&gt;(全128話)　出演：イ・ヨンウン他　制作：韓国 2019年</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/553/553_553_553000536.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch554" start="20250308110000 +0000" stop="20250308113000 +0000">
-		<title>戦慄トークショー 永野が震える夜 #42</title>
-		<desc>「シェー！」永野の悲鳴が響きわたる…ゲストが永野を怖がらせる恐怖バラエティ！第４２話　〜恐怖！日本の怪奇事件を追う穂積昭雪</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/554/554_554_MD0000251944_0006.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch553" start="20250310111500 +0000" stop="20250310114500 +0000">
+		<title>お役立ち生活情報・アジアドラマチックTVからのお知らせ</title>
+		<desc>アジアドラマチックTVから皆さんにお得な情報をお知らせいたします。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/553/553_553_553000251.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch553" start="20250310114500 +0000" stop="20250310123000 +0000">
+		<title>[韓]#82 愛よ、お願い&lt;字&gt;【王道の逆転愛憎劇！】</title>
+		<desc>【韓国ドラマ】第82話(本編31分)&lt;字&gt;(全128話)　出演：イ・ヨンウン他　制作：韓国 2019年</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/553/553_553_553000536.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch554" start="20250308113000 +0000" stop="20250308120000 +0000">
 		<title>ロンブー亮の釣りならまかせろ！ #19</title>
@@ -10003,23 +10138,25 @@ MI6の凄腕スパイ・シルヴィアが、イタリアで名探偵となっ�
 		<desc>「予選第６戦」麻雀　対局者：石橋伸洋×山井弘×佐々木寿人×鈴木たろう　解説者：金太賢　新進気鋭の若手プロ８名が真剣対局！優勝者には王座決定戦の出場権</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/554/554_554_MD0000152889_0006.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch555" start="20250308084000 +0000" stop="20250308093500 +0000">
-		<title>池中玄太80キロ 一挙放送 #5</title>
-		<desc>【2ヶ月連続！西田敏行 主演 「池中玄太」シリーズ 一挙放送】
-西田敏行が民放連続テレビドラマ初主演し、話題作となった「池中玄太」シリーズを一挙アンコール放送</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/555/555_555_NP0000004136.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch554" start="20250310093000 +0000" stop="20250310100000 +0000">
+		<title>インフォメーション</title>
+		<desc>通販番組をお届けする３０分</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/554/554_554_MD0000250262_0001.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch555" start="20250308093500 +0000" stop="20250308103000 +0000">
-		<title>池中玄太80キロ 一挙放送 #6</title>
-		<desc>【2ヶ月連続！西田敏行 主演 「池中玄太」シリーズ 一挙放送】
-西田敏行が民放連続テレビドラマ初主演し、話題作となった「池中玄太」シリーズを一挙アンコール放送</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/555/555_555_NP0000004136.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch554" start="20250310100000 +0000" stop="20250310110000 +0000">
+		<title>【プレイバック2024】パチスロ常勝理論！ #453</title>
+		<desc>パチスロライターのポロリと、ワサビ、伊藤真一がパチスロで常勝するための方法をホール実戦で実証する。期待値を追う立ち回りの神髄がここにある！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/554/554_554_MD0000060771_0453.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch555" start="20250308103000 +0000" stop="20250308112500 +0000">
-		<title>池中玄太80キロ 一挙放送 #7</title>
-		<desc>【2ヶ月連続！西田敏行 主演 「池中玄太」シリーズ 一挙放送】
-西田敏行が民放連続テレビドラマ初主演し、話題作となった「池中玄太」シリーズを一挙アンコール放送</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/555/555_555_NP0000004136.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch554" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>パチスロ常勝理論！ #474</title>
+		<desc>パチスロライターのポロリと、ワサビ、伊藤真一がパチスロで常勝するための方法をホール実戦で実証する。期待値を追う立ち回りの神髄がここにある！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/554/554_554_MD0000060771_0474.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch554" start="20250310120000 +0000" stop="20250310123000 +0000">
+		<title>ヒロシのぼっちキャンプ Season3 #38</title>
+		<desc>芸人ヒロシが自分のためだけにするひとりぼっちのキャンプ。自然のなかで思う存分心と体を解き放つ、本当の自由がここにある。第３８話　いちばん空を見上げた日</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/554/554_554_MD0000252062_0014.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch555" start="20250308112500 +0000" stop="20250308122000 +0000">
 		<title>池中玄太80キロ 一挙放送 #8</title>
@@ -10267,29 +10404,32 @@ MI6の凄腕スパイ・シルヴィアが、イタリアで名探偵となっ�
 （全16話）</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/555/555_555_NP0000025370.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch556" start="20250308080000 +0000" stop="20250308100000 +0000">
-		<title>＜アンコール放送＞「ひなフェス2024」事前特番〜生たけメンバー大集合2時間SP〜</title>
-		<desc>『Hello! Project ひなフェス』に向けて、「生たけ」メンバーが集合！
-※2024年3月に放送されたものです</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/556.jpg" />
+	<programme channel="hikaritv-ch555" start="20250310091500 +0000" stop="20250310103000 +0000">
+		<title>【字】韓国ドラマ「ベートーベン・ウィルス〜愛と情熱のシンフォニー〜」 #18(最終回)</title>
+		<desc>キム・ミョンミン、イ・ジア、チャン・グンソク　ほか
+（全18話）</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/555/555_555_NP0000024943.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch556" start="20250308100000 +0000" stop="20250308103000 +0000">
-		<title>ドラえもん #642</title>
-		<desc>#642「アニメばこ／ジャイ子の新作まんが」
-子どもから大人まで幅広く愛され続けている国民的アニメが登場！</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/556.jpg" />
+	<programme channel="hikaritv-ch555" start="20250310103000 +0000" stop="20250310110000 +0000">
+		<title>プラス!ショッピング</title>
+		<desc>毎日の暮らしに「プラス!」な情報を。ショッピング番組。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/555.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch556" start="20250308103000 +0000" stop="20250308110000 +0000">
-		<title>ドラえもん #643</title>
-		<desc>#643「宇宙戦艦のび太を襲う」
-子どもから大人まで幅広く愛され続けている国民的アニメが登場！</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/556.jpg" />
+	<programme channel="hikaritv-ch555" start="20250310110000 +0000" stop="20250310113000 +0000">
+		<title>名探偵コナン セレクション #526 真犯人からの届け物</title>
+		<desc>蘭は喫茶店のポアロに変装した高木がいる事に気付く。証券マンの鳥平貴文がこの付近の自宅で殺害され、ウェイトレスの榎本梓の兄、杉人に容疑が…。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/555/555_555_NP0000008849.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch556" start="20250308110000 +0000" stop="20250308113000 +0000">
-		<title>クレヨンしんちゃん #858</title>
-		<desc>#858「思い出したいマサオくんだゾ／父ちゃんと地獄のセールスレディだゾ」
-1992年4月〜放映中／原作：臼井儀人</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/556.jpg" />
+	<programme channel="hikaritv-ch555" start="20250310113000 +0000" stop="20250310120000 +0000">
+		<title>名探偵コナン セレクション #527 仮面劇に秘めた悪意</title>
+		<desc>コナンは小五郎、蘭と仮面劇のゲネプロ(最後のリハーサル)を観る。クライマックスの王子と大臣の決闘シーンに驚くと、劇団マネージャーの志水絹子は…。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/555/555_555_NP0000008849.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch555" start="20250310120000 +0000" stop="20250310130000 +0000">
+		<title>東京タラレバ娘 #7</title>
+		<desc>出演：吉高由里子 榮倉奈々 大島優子 坂口健太郎 鈴木亮平　ほか
+東村アキコの超話題コミックをドラマ化！女子のリアルが刺さりまくり！（全10話）</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/555/555_555_NP0000012123.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch556" start="20250308113000 +0000" stop="20250308120000 +0000">
 		<title>クレヨンしんちゃん #859</title>
@@ -10649,11 +10789,30 @@ MI6の凄腕スパイ・シルヴィアが、イタリアで名探偵となっ�
 1992年4月〜放映中／原作：臼井儀人</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/556.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch557" start="20250308080000 +0000" stop="20250308100000 +0000">
-		<title>タクシードライバーの推理日誌 塀の中からの乗客　星降る夜のアリバイ殺人!!</title>
-		<desc>塀の中からの乗客 星降る夜のアリバイ殺人!!吸い取られたDNAと謎の記号の秘密
-出演者：渡瀬恒彦、国生さゆり、風見しんご、佐藤二朗、遠野なぎこ、林泰文 ほか</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/557.jpg" />
+	<programme channel="hikaritv-ch556" start="20250310093000 +0000" stop="20250310100000 +0000">
+		<title>クレヨンしんちゃん #1136</title>
+		<desc>#1136「田植え体験だゾ／ネネちゃんをエスコートだゾ／オラんちのチャンピオンベルトだゾ」
+1992年4月〜放映中／原作：臼井儀人</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/556.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch556" start="20250310100000 +0000" stop="20250310110000 +0000">
+		<title>にじいろカルテ #7</title>
+		<desc>#7「明日僕を忘れる妻へ タイムリミットは10日 幻の結婚式」（2021年／全9話）
+出演者：高畑充希、北村匠海、安達祐実、眞島秀和、光石研、西田尚美　ほか</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/556.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch556" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>オトナ高校 #8[終]</title>
+		<desc>#8「ついに卒業!?周回遅れの青春ドラマ、感動のクライマックス！」＜2017年／全8話＞
+出演者：三浦春馬、高橋克実、竜星涼、松井愛莉、山田真歩　ほか</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/556.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch556" start="20250310120000 +0000" stop="20250310133500 +0000">
+		<title>[新]新・科捜研の女（2005） #1</title>
+		<desc>File1「疑惑の女刑事！誤射それとも殺人？それは18年前の夏の夜に起こった！京都〜信楽高原 二本の弾道を結ぶ謎」
+出演者：沢口靖子、内藤剛志 ほか
+＜全10話／2005年＞</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/556.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch557" start="20250308100000 +0000" stop="20250308120000 +0000">
 		<title>タクシードライバーの推理日誌 東京〜京都〜博多、殺人犯を追う乗客</title>
@@ -10911,17 +11070,18 @@ MI6の凄腕スパイ・シルヴィアが、イタリアで名探偵となっ�
 出演者：さわやか五郎、飯塚めり　ほか</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/557.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch558" start="20250308064000 +0000" stop="20250308091000 +0000">
-		<title>CRISIS 公安機動捜査隊特捜班【一挙】#5-7</title>
-		<desc>『#5-7　潜入捜査の黒い罠/地下鉄爆破テロ阻止せよ/維新軍の謎！未来を守れ』
-【出演】：小栗旬、西島秀俊、田中哲司、野間口徹、新木優子、石田ゆり子、飯田基祐　ほか</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/558/558_558_CRISIS.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch557" start="20250310100000 +0000" stop="20250310120000 +0000">
+		<title>熱海の捜査官 #1・2</title>
+		<desc>第1話「広域捜査官 星崎剣三」第2話「包帯少女の正体」（2010年／全8話）
+出演者：オダギリジョー、栗山千明、松重豊、田中哲司 ほか</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/557.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch558" start="20250308091000 +0000" stop="20250308115500 +0000">
-		<title>CRISIS 公安機動捜査隊特捜班【一挙】#8-10</title>
-		<desc>『#8-10　激闘決死の救出！/最強の敵！特捜班、崩壊/特捜班、最後の死闘！国家への復讐計画！暴走する憎しみの結末（終）』
-【出演】：小栗旬、西島秀俊、田中哲司　ほか</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/558/558_558_CRISIS.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch557" start="20250310120000 +0000" stop="20250310123000 +0000">
+		<title>水曜どうでしょうClassic #227「原付日本列島制覇 第9夜」</title>
+		<desc>#227「原付日本列島制覇 第9夜」
+出演者：鈴井貴之、大泉洋
+北海道テレビ：2013年7月17日放送</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/557.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch558" start="20250308115500 +0000" stop="20250308160000 +0000">
 		<title>Answer〜警視庁検証捜査官【一挙】#1-5</title>
@@ -11056,20 +11216,20 @@ MI6の凄腕スパイ・シルヴィアが、イタリアで名探偵となっ�
 		<desc>出演：船越英一郎、中山忍、国生さゆり、風間トオル、井上純一、林泰文、大杉漣、名取裕子（友情出演）　ほか</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/558/558_558_yoshinagaseiichi4.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch559" start="20250308083000 +0000" stop="20250308090000 +0000">
-		<title>じゃん旅　〜麻雀しながら旅しよう〜 #1</title>
-		<desc>「麻雀しながら旅しよう」をコンセプトに、いま注目の若手女流プロ４名が温泉旅行へ。旅の途中では、ちょいちょい麻雀勝負が行われ勝者にはちょっといい感じのご褒美が…。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/559/559_559_GYJANT11_1.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch558" start="20250310093000 +0000" stop="20250310100000 +0000">
+		<title>生活お役立ち情報</title>
+		<desc>この時間は生活に役立つお得なテレビショッピングをお届けします。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/558/558_558_seikatsu.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch559" start="20250308090000 +0000" stop="20250308100000 +0000">
-		<title>パチスロ〜ライフ #303</title>
-		<desc>人気パチスロライターウシオ×しんのすけ夢の共演！日本全国をゆる〜く旅打ち。「ユル面白い」をモットーに魅せる新感覚パチスロバラエティ番組！！</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/559/559_559_GYPAS503_1.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch558" start="20250310100000 +0000" stop="20250310115500 +0000">
+		<title>上条麗子の事件推理６　〜死を呼ぶ佐渡情話〜　出演：眞野あずさ</title>
+		<desc>【出演】：眞野あずさ、三原じゅん子、須藤温子、松澤一之、山崎裕太、西川忠志、常泉忠通、菊地康二、近藤強、瀬川寿子、松原智恵子、つじしんめい、小柳友貴美　ほか</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/558/558_558_kamijyo6.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch559" start="20250308100000 +0000" stop="20250308110000 +0000">
-		<title>パチスロ〜ライフ #304</title>
-		<desc>人気パチスロライターウシオ×しんのすけ夢の共演！日本全国をゆる〜く旅打ち。「ユル面白い」をモットーに魅せる新感覚パチスロバラエティ番組！！</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/559/559_559_GYPAS504_1.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch558" start="20250310115500 +0000" stop="20250310135500 +0000">
+		<title>今野敏サスペンス　憐情　警視庁強行犯係 樋口顕</title>
+		<desc>【出演】：内藤剛志、矢田亜希子、逢沢りな、佐野岳、片山萌美、小松利昌、斉藤暁、大河内浩、川上麻衣子、榎木孝明、佐野史郎　【ゲスト】：石野真子、松井愛莉　ほか</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/558/558_558_konnoRENJYO.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch559" start="20250308110000 +0000" stop="20250308120000 +0000">
 		<title>心霊闇動画93</title>
@@ -11351,18 +11511,20 @@ MI6の凄腕スパイ・シルヴィアが、イタリアで名探偵となっ�
 		<desc>＜エンタメ〜テレオリジナル＞日本プロ麻雀連盟×エンタメ〜テレＰｒｅｓｅｎｔｓ第四弾！三人麻雀＝三麻の初代王者を決めるトーナメント戦！！</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/559/559_559_GY3MA107_1.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch560" start="20250308080000 +0000" stop="20250308090000 +0000">
-		<title>ゲームセンターCX　#381　狙いを定めろ…「バーチャコップ」</title>
-		<desc>アーケードでも人気を博した3Dガンシューティング『バーチャコップ』に挑戦！▽たまゲー「アミューズメント フィールド BAYON」▽ミニコーナー「つりざんまい」</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/560/560_560_8908600.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch559" start="20250310100000 +0000" stop="20250310110000 +0000">
+		<title>パチスロ〜ライフ #307</title>
+		<desc>人気パチスロライターウシオ×しんのすけ夢の共演！日本全国をゆる〜く旅打ち。「ユル面白い」をモットーに魅せる新感覚パチスロバラエティ番組！！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/559/559_559_GYPAS507_1.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch560" start="20250308090000 +0000" stop="20250308110000 +0000">
-		<title>いいすぽ！　#101　「ぷよぷよeスポーツ」No.1決定戦</title>
-		<desc>でるか！大連鎖！「ぷよぷよeスポーツ」No.1決定戦
-＜MC＞バカリズム
-※第2音声：ゲーム音のみ
-　【再放送】</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/560/560_560_8973000.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch559" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>パチスロ〜ライフ #308</title>
+		<desc>人気パチスロライターウシオ×しんのすけ夢の共演！日本全国をゆる〜く旅打ち。「ユル面白い」をモットーに魅せる新感覚パチスロバラエティ番組！！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/559/559_559_GYPAS508_1.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch559" start="20250310120000 +0000" stop="20250310130000 +0000">
+		<title>エハラマサヒロのパチバラ８ #5／相棒はピスタチオ伊地知</title>
+		<desc>新メンバーとしてピスタチオ伊地知を迎え更にパワーアップ！今回のテーマは、ガチ感の追求！パチンコ・パチスロ打ちのリアルな日常に迫る！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/559/559_559_GYBAR805_1.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch560" start="20250308110000 +0000" stop="20250308130000 +0000">
 		<title>[生]競馬予想ＴＶ！　#1259「弥生賞ディープインパクト記念（G2）」ほか</title>
@@ -11621,47 +11783,28 @@ https://otn.fujitv.co.jp</desc>
 ＜MC＞柴田英嗣　＜解説＞古久根英孝　＜実況＞筒井大輔</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/560/560_560_8986857.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch561" start="20250308083300 +0000" stop="20250308090600 +0000">
-		<title>韓国ドラマ「テプンの花嫁 〜愛と復讐の羅針盤」#57　【日本語字幕版】</title>
-		<desc>第57話「反撃の序章」
-＜出演＞パク・ハナ　ソン・チャンミン　カン・ジソプ　パク・ユンジェ　オ・スンア　ほか
-（全102話）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/561/561_561_B596400.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch560" start="20250310100000 +0000" stop="20250310110000 +0000">
+		<title>麻雀最極決定戦！サバイバルバトル 極雀 season44　#8</title>
+		<desc>最終ゲーム　＜出演＞萩原聖人　大村朋宏（トータルテンボス）　及川奈央　アントニー（マテンロウ）
+＜MC＞柴田英嗣　＜解説＞古久根英孝　＜実況＞筒井大輔</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/560/560_560_8986857.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch561" start="20250308090600 +0000" stop="20250308093900 +0000">
-		<title>韓国ドラマ「テプンの花嫁 〜愛と復讐の羅針盤」#58　【日本語字幕版】</title>
-		<desc>第58話「特別な贈り物」
-＜出演＞パク・ハナ　ソン・チャンミン　カン・ジソプ　パク・ユンジェ　オ・スンア　ほか
-（全102話）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/561/561_561_B596400.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch560" start="20250310110000 +0000" stop="20250310115000 +0000">
+		<title>ひらけ！パンドラの箱 アンタッチャブるTV　#12</title>
+		<desc>税金0円！学費0円！医療費ほぼタダ！国から一軒家が提供　世界一のユートピア・超金持ち国ブルネイにアンタ潜入調査</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/560/560_560_B430900.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch561" start="20250308093900 +0000" stop="20250308101200 +0000">
-		<title>韓国ドラマ「テプンの花嫁 〜愛と復讐の羅針盤」#59　【日本語字幕版】</title>
-		<desc>第59話「監禁場所」
-＜出演＞パク・ハナ　ソン・チャンミン　カン・ジソプ　パク・ユンジェ　オ・スンア　ほか
-（全102話）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/561/561_561_B596400.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch560" start="20250310115000 +0000" stop="20250310120000 +0000">
+		<title>番組PR【3月】</title>
+		<desc>＜番組に関する情報は・・・＞
+https://otn.fujitv.co.jp</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/560/560_560_A578600.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch561" start="20250308101200 +0000" stop="20250308104500 +0000">
-		<title>韓国ドラマ「テプンの花嫁 〜愛と復讐の羅針盤」#60　【日本語字幕版】</title>
-		<desc>第60話「残酷な運命」
-＜出演＞パク・ハナ　ソン・チャンミン　カン・ジソプ　パク・ユンジェ　オ・スンア　ほか
-（全102話）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/561/561_561_B596400.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch561" start="20250308104500 +0000" stop="20250308111800 +0000">
-		<title>韓国ドラマ「テプンの花嫁 〜愛と復讐の羅針盤」#61　【日本語字幕版】</title>
-		<desc>第61話「契約結婚」
-＜出演＞パク・ハナ　ソン・チャンミン　カン・ジソプ　パク・ユンジェ　オ・スンア　ほか
-（全102話）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/561/561_561_B596400.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch561" start="20250308111800 +0000" stop="20250308115000 +0000">
-		<title>韓国ドラマ「テプンの花嫁 〜愛と復讐の羅針盤」#62　【日本語字幕版】</title>
-		<desc>第62話「次の手がかり」
-＜出演＞パク・ハナ　ソン・チャンミン　カン・ジソプ　パク・ユンジェ　オ・スンア　ほか
-（全102話）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/561/561_561_B596400.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch560" start="20250310120000 +0000" stop="20250310130000 +0000">
+		<title>つば九郎のカンペDEトーク　#65〜#69 ディレクターズカット版</title>
+		<desc>＜ゲスト＞ギャオス内藤　真中満　館山昌平　＜MC＞つば九郎　西山喜久恵
+▽つば九郎が得意のカンペで鋭く切り込む！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/560/560_560_A636600.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch561" start="20250308115000 +0000" stop="20250308122200 +0000">
 		<title>韓国ドラマ「テプンの花嫁 〜愛と復讐の羅針盤」#63　【日本語字幕版】</title>
@@ -12108,20 +12251,47 @@ https://otn.fujitv.co.jp</desc>
 ＜声の出演＞田中真弓　ほか</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/561/561_561_B328900.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch562" start="20250308075000 +0000" stop="20250308100000 +0000">
-		<title>2025 F1 75 Live　　　F1創設75周年記念イベント</title>
-		<desc>＜開催＞2025年2月19日（水）【再放送】
-＜解説＞山本雅史　米家峰起
-＜同時通訳＞海老塚寛子　福ノ上達也
-＜実況＞塩原恒夫</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/562/562_562_B600703.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch561" start="20250310093000 +0000" stop="20250310100000 +0000">
+		<title>ワンピース 魚人島編　#25</title>
+		<desc>第541話「黄猿登場！タイガーを狙う罠！」　（地上波放送日　2012年4月1日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/561/561_561_B328900.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch562" start="20250308100000 +0000" stop="20250308113000 +0000">
-		<title>＠cx_motorsports 2025　#1</title>
-		<desc>モータースポーツファン必見のオフシーズン特番が今年も登場！2025シーズンを徹底解説！
-＜解説＞浜島裕英　松田次生　米家峰起　＜MC＞堀池亮介
-　【再放送】</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/562/562_562_B574100.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch561" start="20250310100000 +0000" stop="20250310103000 +0000">
+		<title>ワンピース 魚人島編　#26</title>
+		<desc>第542話「チーム結成！チョッパーを救え」　（地上波放送日　2012年4月8日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/561/561_561_B328900.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch561" start="20250310103000 +0000" stop="20250310110000 +0000">
+		<title>ワンピース 魚人島編　#27</title>
+		<desc>第543話「英雄の最期 タイガー衝撃の真実」　（地上波放送日　2012年4月15日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/561/561_561_B328900.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch561" start="20250310110000 +0000" stop="20250310113000 +0000">
+		<title>ワンピース 魚人島編　#28</title>
+		<desc>第544話「海賊団分裂 ジンベエvsアーロン」　（地上波放送日　2012年4月22日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/561/561_561_B328900.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch561" start="20250310113000 +0000" stop="20250310120000 +0000">
+		<title>ワンピース 魚人島編　#29</title>
+		<desc>第545話「揺れる魚人島！漂着した天竜人」　（地上波放送日　2012年4月29日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/561/561_561_B328900.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch561" start="20250310120000 +0000" stop="20250310123000 +0000">
+		<title>ワンピース 魚人島編　#30</title>
+		<desc>第546話「突然の悲劇！未来を閉ざす凶弾」　（地上波放送日　2012年5月6日）
+＜原作＞尾田栄一郎
+＜声の出演＞田中真弓　ほか</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/561/561_561_B328900.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch562" start="20250308113000 +0000" stop="20250308140000 +0000">
 		<title>VIVA LA ROCK 2024　完全版　＜DAY1＞</title>
@@ -12319,18 +12489,28 @@ https://otn.fujitv.co.jp</desc>
 ＜出演＞桜井誠（Dragon Ash／ATOM ON SPHEREドラマー）、射駒タケシ（パチスロ必勝本／パチスロ7ライター）</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/562/562_562_7707300.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch570" start="20250308073000 +0000" stop="20250308091500 +0000">
-		<title>ラジオスター #895</title>
-		<desc>毒舌トークで有名なこの番組。
-K-POPスターや人気俳優が出演し、旬なゲストの本音に迫る！
-*日本語字幕放送*</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/570.jpg" />
+	<programme channel="hikaritv-ch562" start="20250310093000 +0000" stop="20250310100000 +0000">
+		<title>パチスロ（旅） #150「熊本編（2）」</title>
+		<desc>「熊本編（2）」
+＜出演＞桜井誠（Dragon Ash／ATOM ON SPHEREドラマー）、射駒タケシ（パチスロ必勝本／パチスロ7ライター）</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/562/562_562_7707300.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch570" start="20250308091500 +0000" stop="20250308110000 +0000">
-		<title>知ってるお兄さん #453</title>
-		<desc>とある高校の教室を舞台に豪華アイドルたちが転校生として登場する大人気バラエティ！
-*日本語字幕放送*</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/570.jpg" />
+	<programme channel="hikaritv-ch562" start="20250310100000 +0000" stop="20250310113000 +0000">
+		<title>＠cx_motorsports 2025　#3</title>
+		<desc>モータースポーツファン必見のオフシーズン特番！第3弾
+＜解説＞津川哲夫　川井一仁　米家峰起
+＜MC＞黒瀬翔生
+【再放送】</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/562/562_562_B574100.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch562" start="20250310113000 +0000" stop="20250310150000 +0000">
+		<title>バレーボール イタリア セリエA 24/25　準々決勝 ペルージャ×モデナ</title>
+		<desc>準々決勝 第1戦「ペルージャ（石川祐希所属）vs モデナ」
+
+＜開催＞2025年3月8日（土）【再放送】
+
+＜解説＞福澤達哉　＜実況＞波多江良一</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/562/562_562_B527000.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch570" start="20250308110000 +0000" stop="20250308130000 +0000">
 		<title>[映画]ただ君だけ</title>
@@ -12553,18 +12733,18 @@ K-POPスターや人気俳優が出演し、旬なゲストの本音に迫る！
 異ジャンルで活躍する女性がチームを結成し、真剣勝負を繰り広げる笑いあり涙ありのリアルスポーツバラエテ…</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/570.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch571" start="20250308083000 +0000" stop="20250308100000 +0000">
-		<title>フィールドを駆けろ！熱血少女 #4</title>
-		<desc>プレーするのは全員7歳の女の子たち？！スポーツ選手の娘たちによるサッカー挑戦記
-再：(金)20:00〜、(土)17:30〜</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/571/571_571_Nekketsusyouzyo.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch570" start="20250310094500 +0000" stop="20250310110000 +0000">
+		<title>風と雲と雨 #17</title>
+		<desc>四柱推命とサイコメトリーをテーマに、朝鮮最高の観相師と霊能力を持つ王女、そして王族、キングメーカーたちの王位争奪戦を描く本格時代劇！
+全21話*日本語字幕放送*</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/570.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch571" start="20250308100000 +0000" stop="20250308113000 +0000">
-		<title>驚きの土曜日 #346</title>
-		<desc>ゲスト：ユ・ソンホ、ソン・ゴニ、カン・フン
-韓国の絶品グルメをかけて挑戦する音楽クイズ！
-再：(日)8:00、(火)16:00、(木)10:00</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/571/571_571_odorokinodoyobi.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch570" start="20250310110000 +0000" stop="20250310121500 +0000">
+		<title>【新】こんなに親密な裏切り者 #1</title>
+		<desc>ハン・ソッキュ主演最新作！
+韓国最高のプロファイラーが、捜査している殺人事件に関与した娘の秘密を知り、深淵の中の真実を追う心理スリラー！
+全10話*日本語字幕放送*</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/570.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch571" start="20250308113000 +0000" stop="20250308120000 +0000">
 		<title>Mnetライブ【TOMORROW X TOGETHER ②】</title>
@@ -12942,6 +13122,18 @@ DEX(キム・ジニョン)出演！海辺の町で繰り広げられる労働×�
 ※再放送情報はMnet HPにて</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/571.jpg" />
 	</programme>
+	<programme channel="hikaritv-ch571" start="20250310100000 +0000" stop="20250310113000 +0000">
+		<title>2024 MAMA AWARDS JAPAN CHAPTER 1 レッドカーペット 字幕版</title>
+		<desc>日本・大阪の京セラドームで開催された世界最大級のK-POP授賞式「2024 MAMA AWARDS」のレッドカーべットの模様をお届け！
+※再放送情報はMnet HPにてご確認ください</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/571.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch571" start="20250310113000 +0000" stop="20250310124500 +0000">
+		<title>Eightest xikers編</title>
+		<desc>アーティストの様々なモーメントを盛り込んだカムバックスペシャルドキュメンタリーxikers編！
+※再放送情報はMnet HPにてご確認ください</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/571.jpg" />
+	</programme>
 	<programme channel="hikaritv-ch650" start="20250308050000 +0000" stop="20250308130000 +0000">
 		<title>全曲歌詞入り！カラオケランキング100</title>
 		<desc>▼Vaundy、CUTIE STREET、ポルノグラフィティ、あいみょん、菅田将暉、優里、HY、tuki.、Da-iCE、Creepy Nuts、川崎鷹也、REBECCA 他</desc>
@@ -13069,6 +13261,21 @@ DEX(キム・ジニョン)出演！海辺の町で繰り広げられる労働×�
 		<title>みんなが聴きたい！ヒット曲スペシャル Part9▼サカナクション、LiSA 他</title>
 		<desc>誰もが一度は聞いたことがある、歌える時代を代表する名曲から最新ヒット曲まで豪華アーティストの数々のヒット曲を一挙オンエア！</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/651/651_651_202503_plus_04.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch651" start="20250310110000 +0000" stop="20250310113000 +0000">
+		<title>【独占ライブ】仲村宗悟</title>
+		<desc>仲村宗悟がバンド編成でパフォーマンスを披露！インタビューでは、アーティスト・仲村宗悟の一面を紐解いていく。※2021年2月に放送した番組のアンコール放送です。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/651/651_651_202503_plus_55.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch651" start="20250310113000 +0000" stop="20250310120000 +0000">
+		<title>【特番】仲村宗悟</title>
+		<desc>人気声優仲村宗悟の新着MV「JUMP」の撮影の裏側に密着！さらに撮りおろしのインタビューも加えたスペシャルな30分！※2021年2月に放送した番組のアンコール放送です。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/651/651_651_202503_plus_52.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch651" start="20250310120000 +0000" stop="20250310123000 +0000">
+		<title>【独占ライブ】Juice=Juice</title>
+		<desc>ニューシングル「がんばれないよ」をリリースするJuice=Juiceの独占ライブとスペシャルインタビューをオンエア！※2021年3月に放送した番組のアンコール放送です。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/651/651_651_202503_plus_28.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch653" start="20250308083000 +0000" stop="20250308120000 +0000">
 		<title>日本語字幕入り! 2024 KOREA GRAND MUSIC AWARDS(KGMA) ＜Artist Day＞</title>
@@ -13200,16 +13407,10 @@ DEX(キム・ジニョン)出演！海辺の町で繰り広げられる労働×�
 		<desc>人気カラオケソングはこの番組でチェック！最新カラオケチャートTOP20を歌詞入りミュージックビデオでカウントダウン！</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/653/653_653_karaokecd20_01.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch655" start="20250308083000 +0000" stop="20250308093000 +0000">
-		<title>泣いた！笑った！こころ歌　氷川きよし</title>
-		<desc>氷川きよしの音楽ヒストリーを、インタビューと歌唱でひも解く特別番組。15周年の歴史を歌とインタビューでたどる。
-（NHK放送日：2015年3月11日）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/655.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch655" start="20250308093000 +0000" stop="20250308110000 +0000">
-		<title>鉄道歌浪漫２　〜懐かしき昭和の風景を流行歌にのせて〜</title>
-		<desc>雑誌「月刊鉄道ファン」初代編集長の萩原政男が昭和３５年から昭和５８年にかけて全国で様々な列車や電車を自ら撮影した８ｍｍ映像を当時のヒット曲と共にお届けします。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/655.jpg" />
+	<programme channel="hikaritv-ch653" start="20250310110000 +0000" stop="20250310130000 +0000">
+		<title>LINE MUSICカウントダウン20【歌詞入り】</title>
+		<desc>定額音楽配信サービス「LINE MUSIC」。音楽を楽しむための新しいスタイル「LINE MUSIC」のウィークリーランキングTOP20をお届け！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/653/653_653_linemusiccd20_01.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch655" start="20250308110000 +0000" stop="20250308140000 +0000">
 		<title>エバーグリーンJ-POP◆MV特集　河口恭吾、平井堅ほか</title>
@@ -13417,22 +13618,20 @@ DEX(キム・ジニョン)出演！海辺の町で繰り広げられる労働×�
 #297…オリコン 3月10日付ランキング</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/655.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch750" start="20250308043000 +0000" stop="20250308090000 +0000">
-		<title>[生] GAORAプロ野球中継〜オープン戦〜「北海道日本ハム vs 中日」</title>
-		<desc>（延長時、以降の番組変更繰り下げあり）
-〜オープン戦〜
-北海道日本ハム vs 中日（3.8エスコンフィールド）
-
-解説：鶴岡慎也
-実況：土井悠平</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/750/750_750_407571a.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch655" start="20250310100000 +0000" stop="20250310110000 +0000">
+		<title>列車で旅する歌謡曲＃45【久留里線1】日本全国の美しい鉄道風景と懐かしい歌</title>
+		<desc>全国のローカル鉄道に車載カメラを搭載し「前面映像」をメインに収録。歌謡曲をBGMにした誰もが楽しめる鉄道ｘ音楽番組です。車内音も副音声でお楽しみいただけます。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/655.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch750" start="20250308090000 +0000" stop="20250308093000 +0000">
-		<title>[ドキュメンタリー]情熱大陸「阪神甲子園球場」 #27</title>
-		<desc>「阪神甲子園球場」
-
-MBS放送：2024年8月25日</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/750/750_750_386375b.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch655" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>SONG FILE　70年代学園ソング　中村雅俊、森田健作、フィンガー5ほか</title>
+		<desc>70年代、80年代の誰もが知る名曲の数々をお届けします。レコードやカセットで音楽に没頭していたあの頃を思い出しながらお楽しみください。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/655.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch655" start="20250310120000 +0000" stop="20250310150000 +0000">
+		<title>昭和・平成・令和のヒットソングSP◆MV特集　松原みき、平井堅、あいみょん他</title>
+		<desc>J-POPを彩る名曲の数々を3時間たっぷりお送りします。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/655.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch750" start="20250308093000 +0000" stop="20250308130000 +0000">
 		<title>全日本プロレス　ALL JAPAN B-Banquet「2025.2.24エスフォルタアリーナ八王子」 #477</title>
@@ -13783,17 +13982,6 @@ Ben-K&amp;望月ジュニア vs 望月成晃&amp;佐原明浩
 実況：土井悠平</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/750/750_750_407571a.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch751" start="20250308084500 +0000" stop="20250308090000 +0000">
-		<title>ゴルフギアQ</title>
-		<desc>年間試打本数2000本以上、ゴルフ誌で活躍のクラブフィッター鹿又芳典がドライバーからウェッジまで、クラフトマンシップ溢れる
-ギアを紹介▽出演:鹿又芳典、やのぱん</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/751/751_751_202503_59.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch751" start="20250308090000 +0000" stop="20250308093000 +0000">
-		<title>THE野球盤　阪神レジェンド大集結！ PART2</title>
-		<desc>元阪神タイガースのレジェンド 関本賢太郎、糸井嘉男、今成亮太を迎え、あの年末特番でお馴染みの野球盤で夢の対決が実現。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/751/751_751_202503_10.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
 	<programme channel="hikaritv-ch751" start="20250308093000 +0000" stop="20250308133000 +0000">
 		<title>[録]プロ野球 オープン戦 阪神×横浜DeNA 3.8</title>
 		<desc>阪神×横浜DeNA(3/8試合)
@@ -14098,25 +14286,20 @@ Ben-K&amp;望月ジュニア vs 望月成晃&amp;佐原明浩
 DAY1</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/751/751_751_202503_61.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch752" start="20250308083000 +0000" stop="20250308090000 +0000">
-		<title>ズムサタ プロ野球熱ケツ情報 817[再]</title>
-		<desc>「鍋のこだわり／ようこそジャイアンツ」
-▽「ズームイン！！サタデー」人気コーナー「ズムサタ プロ野球熱ケツ情報」がジータスに進出！</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/752/752_752_202503_G_008.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch751" start="20250310100000 +0000" stop="20250310110000 +0000">
+		<title>[初]PING × Respo ism ジュニアゴルフトーナメント2024 #1</title>
+		<desc>〜予選ラウンド編〜</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/751/751_751_202503_21.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch752" start="20250308090000 +0000" stop="20250308100000 +0000">
-		<title>明石家さんまのシン★スポーツ史1野球＆サッカー「ぶっちゃけ」アスリート軍団[再]</title>
-		<desc>MC：明石家さんま
-進行：井上裕介(NON STYLE)　辻岡義堂　市來玲奈
-ゲスト：五十嵐亮太　糸井嘉男　大久保嘉人　槙野智章　瀬口黎弥(FANTASTICS)</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/752/752_752_202503_G_015.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch751" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>[初]ライジングレディースゴルフTV【MATCH25-2】</title>
+		<desc>【MATCH25-2】ライジングレディース心斎橋ゴルフスタジオがお送りする真剣勝負のダブルスペアマッチ。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/751/751_751_202503_56.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch752" start="20250308100000 +0000" stop="20250308110000 +0000">
-		<title>[初]明石家さんまのシン★スポーツ史2メダル総数12個 スポーツ界の最強女子軍団</title>
-		<desc>MC：明石家さんま
-ゲスト：谷亮子　吉田沙保里　鏡優翔　須崎優衣　武知海青(THE RAMPAGE)
-進行：井上裕介(NON STYLE)　辻岡義堂　市來玲奈</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/752/752_752_202503_G_015.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch751" start="20250310120000 +0000" stop="20250310123000 +0000">
+		<title>[初]入魂！ゴルフ天下！たい平 #28</title>
+		<desc>林家たい平がおくる、楽しく、真面目なゴルフ番組。ゴルフが大好きな芸能人・アスリートなどをゲストに迎え、熱い戦いと楽しいトークをお届けします！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/751/751_751_202503_58.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch752" start="20250308110000 +0000" stop="20250308120000 +0000">
 		<title>THE GIANTSドキュメント 浅野翔吾19歳の覚悟と挑戦 [再]</title>
@@ -14314,35 +14497,6 @@ DAY1</desc>
 		<desc>カブス×メッツ　2000年3月30日開催
 25年ぶりのMLB日本開幕を前に過去のMLB日本開幕シリーズから厳選した９試合を一挙放送！</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/752/752_752_202503_G_038.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch753" start="20250308083000 +0000" stop="20250308090000 +0000">
-		<title>松田宣浩の「熱男ゴルフ」#13　〜ゲスト：生田衣梨奈〜</title>
-		<desc>ゲスト：生田衣梨奈（モーニング娘。’25）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/753/753_753_atsuo-golf2s.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch753" start="20250308090000 +0000" stop="20250308093000 +0000">
-		<title>松田宣浩の「熱男ゴルフ」#14　〜ゲスト：生田衣梨奈〜</title>
-		<desc>ゲスト：生田衣梨奈（モーニング娘。’25）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/753/753_753_atsuo-golf2s.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch753" start="20250308093000 +0000" stop="20250308100000 +0000">
-		<title>ホッとな☆お買い物情報</title>
-		<desc />
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/753/753_753_shop.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch753" start="20250308100000 +0000" stop="20250308101500 +0000">
-		<title>サテライトオフィス presents 篠崎愛、おなかすいちゃった #31</title>
-		<desc>#31 「最上級の肉会席コース」前編
-『篠崎愛の至福の時間』をお届けします
-こんな時代だからこそ、ありのままに、思いのままに食べることのできる幸せを…</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/753/753_753_onaka.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch753" start="20250308101500 +0000" stop="20250308103000 +0000">
-		<title>サテライトオフィス presents 篠崎愛、おなかすいちゃった #32</title>
-		<desc>#32 「最上級の肉会席コース」後編
-『篠崎愛の至福の時間』をお届けします
-こんな時代だからこそ、ありのままに、思いのままに食べることのできる幸せを…</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/753/753_753_onaka.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch753" start="20250308103000 +0000" stop="20250308130000 +0000">
 		<title>若手ゴルファー大会！マイナビ ネクストヒロインゴルフツアー2024 第1戦 前編</title>
@@ -14571,11 +14725,34 @@ DAY1</desc>
 		<desc />
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/753/753_753_shop.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch754" start="20250308083000 +0000" stop="20250308113000 +0000">
-		<title>2025 プエルトリコオープン 2日目</title>
-		<desc>アーノルド・パーマー招待と同週開催でランク上位選手が不在の中、制するのは！？星野陸也、金谷拓実、大西魁斗が出場。
-解説：吉田洋一郎　実況：牧広大</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/754/754_754_202503025.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch753" start="20250310093000 +0000" stop="20250310094500 +0000">
+		<title>サテライトオフィス presents 篠崎愛、おなかすいちゃった #31</title>
+		<desc>#31 「最上級の肉会席コース」前編
+『篠崎愛の至福の時間』をお届けします
+こんな時代だからこそ、ありのままに、思いのままに食べることのできる幸せを…</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/753/753_753_onaka.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch753" start="20250310094500 +0000" stop="20250310100000 +0000">
+		<title>サテライトオフィス presents 篠崎愛、おなかすいちゃった #32</title>
+		<desc>#32 「最上級の肉会席コース」後編
+『篠崎愛の至福の時間』をお届けします
+こんな時代だからこそ、ありのままに、思いのままに食べることのできる幸せを…</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/753/753_753_onaka.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch753" start="20250310100000 +0000" stop="20250310110000 +0000">
+		<title>ザ・ヒロインバトル 〜NEXT BACK9〜 #2</title>
+		<desc>次世代を担う女子ゴルファーたちによる対決番組。1対1の9ホールストローク対決にかけられた賞金は30万円!!</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/753/753_753_heroine1-2.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch753" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>ゴルフサバイバル　60thステージ #2</title>
+		<desc>ある選手のリカバリーに解説・原江里菜プロも「スゴい度胸」とビックリ！アマも必見の一打とは！？1Hでは4人がバーディーと伸ばし合いの様相に！2週目はどうなる？</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/753/753_753_golf-surviver_60th.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch753" start="20250310120000 +0000" stop="20250310130000 +0000">
+		<title>大久保佳代子のずたぼろゴルフ２ #11</title>
+		<desc>第11回は、大久保佳代子vs鈴木紗理奈vsダレノガレ明美のガチ対決！初のドラコン対決、ミドルホール対決で熱い火花が散る！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/753/753_753_zutaboro2.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch754" start="20250308113000 +0000" stop="20250308143000 +0000">
 		<title>2025 アーノルド・パーマー インビテーショナル 2日目</title>
@@ -14800,10 +14977,19 @@ DAY1</desc>
 		<desc>シーズン4を迎えたプレメンレッスン！今回のコーチ、大本研太郎は2018年「PGAティーチングプロアワード」で最優秀賞を受賞した。そんな彼のメソッドとは。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/754/754_754_202503156.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch775" start="20250308033000 +0000" stop="20250308113000 +0000">
-		<title>ばんえい十勝競馬レース実況中継(ナイター)</title>
-		<desc>詳細は地方競馬ナインSELECTのHPでご確認ください。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/775/775_775_775_banei_01.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch754" start="20250310093000 +0000" stop="20250310100000 +0000">
+		<title>インフォメーション</title>
+		<desc>＝＝＝＝＝◆インフォメーション◆＝＝＝＝
+話題のクラブやグッズをご紹介。
+気に入った商品を即購入することができる！
+ショッピング番組。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/754/754_754_202503137.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch754" start="20250310100000 +0000" stop="20250310130000 +0000">
+		<title>2025 アーノルド・パーマー インビテーショナル 最終日</title>
+		<desc>11年連続出場、松山英樹の大会初制覇に期待がかかる。キング・オブ・ゴルフの名を冠するビッグトーナメント。
+解説：大町昭義　実況：薬師寺広</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/754/754_754_202503008.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch775" start="20250308113000 +0000" stop="20250308120000 +0000">
 		<title>情報番組</title>
@@ -14885,12 +15071,17 @@ DAY1</desc>
 		<desc>快適で健やかな暮らしに役立つ品々の通信販売のご案内。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/775.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch775" start="20250309020000 +0000" stop="20250309050000 +0000">
+	<programme channel="hikaritv-ch775" start="20250309020000 +0000" stop="20250309030000 +0000">
+		<title>競馬レース中継番組のご案内</title>
+		<desc>このチャンネルで放送する実況中継をご案内します。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/775.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch775" start="20250309030000 +0000" stop="20250309061000 +0000">
 		<title>水沢競馬レース実況中継</title>
 		<desc>詳細は地方競馬ナインSELECTのHPでご確認ください。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/775/775_775_775_iwate_01.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/775.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch775" start="20250309050000 +0000" stop="20250309120000 +0000">
+	<programme channel="hikaritv-ch775" start="20250309061000 +0000" stop="20250309120000 +0000">
 		<title>高知競馬レース実況中継（ナイター） 土佐春花賞</title>
 		<desc>詳細は地方競馬ナインSELECTのHPでご確認ください。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/775/775_775_775_kohchi_01.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
@@ -14975,7 +15166,12 @@ DAY1</desc>
 		<desc>快適で健やかな暮らしに役立つ品々の通信販売のご案内。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/775.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch775" start="20250310020000 +0000" stop="20250310033000 +0000">
+	<programme channel="hikaritv-ch775" start="20250310020000 +0000" stop="20250310025500 +0000">
+		<title>競馬レース中継番組のご案内</title>
+		<desc>このチャンネルで放送する実況中継をご案内します。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/775/775_775_775_logo_01.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch775" start="20250310025500 +0000" stop="20250310033000 +0000">
 		<title>水沢競馬レース実況中継</title>
 		<desc>詳細は地方競馬ナインSELECTのHPでご確認ください。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/775/775_775_775_iwate_01.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
@@ -14984,6 +15180,16 @@ DAY1</desc>
 		<title>ばんえい十勝競馬レース実況中継(ナイター)</title>
 		<desc>詳細は地方競馬ナインSELECTのHPでご確認ください。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/775/775_775_775_banei_01.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch775" start="20250310113000 +0000" stop="20250310120000 +0000">
+		<title>情報番組</title>
+		<desc>快適で健やかな暮らしに役立つ品々の通信販売のご案内。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/775.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch775" start="20250310120000 +0000" stop="20250310143000 +0000">
+		<title>競馬レース中継番組のご案内</title>
+		<desc>このチャンネルで放送する実況中継をご案内します。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/775/775_775_775_logo_01.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch776" start="20250308080000 +0000" stop="20250308120000 +0000">
 		<title>蒲郡 ＧⅢ「ラグーナテンボス杯争奪　ＡＬガマの女王決定戦」</title>
@@ -15295,18 +15501,10 @@ DAY1</desc>
 		<desc>「ナイター最終日」レース中継をお送りします。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/776/776_776_ch776_202503.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch757" start="20250308070000 +0000" stop="20250308093000 +0000">
-		<title>ジャパンラグビー リーグワン2024-25 D1 第10節 東京SG×横浜E</title>
-		<desc>国内最高峰のラグビーリーグ！日本代表選手や海外スター選手が参戦し繰り広げる世界トップクラスのプレーに注目！
-東京サンゴリアス×横浜キヤノンイーグルス</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/757/757_757_0329.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch757" start="20250308093000 +0000" stop="20250308100000 +0000">
-		<title>ガンバレ日本プロ野球!?リターンズ24/25 #4 【キャンプ編】</title>
-		<desc>今回のテーマは「新」。
-2025シーズン注目の新戦力に2人が突撃！！
-宮崎県4球団、沖縄県4球団の計8球団を渡り歩く珍道中をお楽しみください。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/757/757_757_0322.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch776" start="20250310120000 +0000" stop="20250310133000 +0000">
+		<title>下関 一般「ＭＮＢＲ下関１２ｔｈ　巌流本舗杯」</title>
+		<desc>「ナイター4日目」レース中継をお送りします。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/776/776_776_ch776_202503.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch757" start="20250308100000 +0000" stop="20250308130000 +0000">
 		<title>[初]バレーボール SVリーグ 男子第18節 STINGS愛知×東京GB</title>
@@ -15381,6 +15579,8 @@ PDC主催大会の中から、印象に残る試合をピックアップしたPD
 		<title>[生]プロ野球2025 広島×東京ヤクルト(3/9)【オープン戦】</title>
 		<desc>【オープン戦】
 広島東洋カープ×東京ヤクルトスワローズ
+解説：野村謙二郎
+実況：澤村優輝
 開催日：2025年3月9日
 球場：MAZDA Zoom-Zoom スタジアム広島</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/757/757_757_baseballsuki.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
@@ -15404,6 +15604,8 @@ PDC主催大会の中から、印象に残る試合をピックアップしたPD
 		<title>プロ野球2025 広島×東京ヤクルト(3/9)【オープン戦】</title>
 		<desc>【オープン戦】
 広島東洋カープ×東京ヤクルトスワローズ
+解説：野村謙二郎
+実況：澤村優輝
 開催日：2025年3月9日
 球場：MAZDA Zoom-Zoom スタジアム広島</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/757/757_757_baseballsuki.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
@@ -15449,6 +15651,8 @@ www.jsports.co.jp</desc>
 		<title>プロ野球2025 広島×東京ヤクルト(3/9)【オープン戦】</title>
 		<desc>【オープン戦】
 広島東洋カープ×東京ヤクルトスワローズ
+解説：野村謙二郎
+実況：澤村優輝
 開催日：2025年3月9日
 球場：MAZDA Zoom-Zoom スタジアム広島</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/757/757_757_baseballsuki.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
@@ -15482,12 +15686,6 @@ www.jsports.co.jp</desc>
 		<desc>FIA世界耐久選手権は、プロトタイプカーとGTカーが混走して争う耐久レース。
 トヨタ、フェラーリ、ポルシェなど多くのメーカーが参戦！</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/757/757_757_0302.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch758" start="20250308083000 +0000" stop="20250308090000 +0000">
-		<title>結束！侍ジャパン #118</title>
-		<desc>2月は侍ジャパントップチーム監督・井端弘和の春季キャンプ視察に密着！
-さらに去年12月に行われた大学代表候補の強化合宿も！</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/758/758_758_0394.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch758" start="20250308090000 +0000" stop="20250308120000 +0000">
 		<title>プロ野球2025 楽天×埼玉西武(3/8)【オープン戦】</title>
@@ -15673,24 +15871,18 @@ PDC主催大会の中から、印象に残る試合をピックアップしたPD
 リーグ上位をするキープするSTINGS愛知と東京GBの一戦！チャンピオンシップ出場権獲得に向けた、白熱した試合展開に注目。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/758/758_758_svleague.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch759" start="20250308045500 +0000" stop="20250308090000 +0000">
-		<title>[生]プロ野球2025 オリックス×巨人(3/8)【オープン戦】</title>
-		<desc>【J SPORTSではオリックスオープン戦主催試合を全試合放送！】
-オリックス・バファローズvs.読売ジャイアンツ</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/759/759_759_baseballsuki.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch758" start="20250310103000 +0000" stop="20250310110000 +0000">
+		<title>[解]J SPORTS HOOP!2025 学生バスケ情報番組 #2</title>
+		<desc>■特集
+ウインターカップ優勝監督　スペシャル対談第2弾
+福岡第一と福大大濠の新チーム最新情報をお届け！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/758/758_758_hoop.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch759" start="20250308090000 +0000" stop="20250308093000 +0000">
-		<title>ガンバレ日本プロ野球!?リターンズ24/25 #4 【キャンプ編】</title>
-		<desc>今回のテーマは「新」。
-2025シーズン注目の新戦力に2人が突撃！！
-宮崎県4球団、沖縄県4球団の計8球団を渡り歩く珍道中をお楽しみください。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/759/759_759_0322.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch759" start="20250308093000 +0000" stop="20250308100000 +0000">
-		<title>結束！侍ジャパン #118</title>
-		<desc>2月は侍ジャパントップチーム監督・井端弘和の春季キャンプ視察に密着！
-さらに去年12月に行われた大学代表候補の強化合宿も！</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/759/759_759_0394.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch758" start="20250310110000 +0000" stop="20250310120500 +0000">
+		<title>ツアー・オブ・オマーン2025 ハイライト Cycle*</title>
+		<desc>中東オマーンで開催されたUCI Proシリーズのステージレース、ツアー・オブ・オマーンをハイライトでお届け！
+実況：長澤洋明</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/758/758_758_0373.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch759" start="20250308100000 +0000" stop="20250308130000 +0000">
 		<title>プロ野球2025 オリックス×巨人(3/8)【オープン戦】</title>
@@ -15857,18 +16049,16 @@ www.jsports.co.jp</desc>
 2025年も鈴鹿サーキットから開幕。シーズンの行方を占う。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/759.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch760" start="20250308080000 +0000" stop="20250308090000 +0000">
-		<title>ツアー・オブ・オマーン2025 ハイライト Cycle*</title>
-		<desc>中東オマーンで開催されたUCI Proシリーズのステージレース、ツアー・オブ・オマーンをハイライトでお届け！
-実況：長澤洋明</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/760/760_760_0373.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch759" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>[初]ロンジン馬術シリーズ リーグ・オブ・ネーションズ2025 #1 アブダビ</title>
+		<desc>馬術の国際大会、ロンジンリーグ・オブ・ネーションズ。チャンピオンの栄冠をかけて上位8チームが戦う。
+【アブダビ(アラブ首長国連邦)】</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/759/759_759_0391.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch760" start="20250308090000 +0000" stop="20250308104500 +0000">
-		<title>【第1戦】UCIシクロクロス ワールドカップ 2024/25 アントウェルペン　Cycle*</title>
-		<desc>距離ではなく時間で争うシクロクロス。障害物があり、下車して自転車を担がなければいけないシーンが見どころのひとつ！
-解説：池本真也
-実況：小俣雄風太</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/760/760_760_0312.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch759" start="20250310120000 +0000" stop="20250310123000 +0000">
+		<title>[初]MOTOR GAMES #571</title>
+		<desc>車＆バイクによる複合型モータースポーツイベント「MOTOR GAMES」と連動した情報をお届けする番組！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/759/759_759_0304.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch760" start="20250308104500 +0000" stop="20250308130500 +0000">
 		<title>[生]ストラーデ・ビアンケ ドンネ 2025 Cycle*</title>
@@ -16061,12 +16251,19 @@ www.jsports.co.jp</desc>
 予測不能、激戦必至な2025年の注目ポイントをピックアップ。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/760/760_760_0313.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch761" start="20250308070000 +0000" stop="20250308113000 +0000">
-		<title>(生)スターダム 2025.3.8 横浜武道館</title>
-		<desc>スターダム
-「CINDERELLA TOURNAMENT 2025〜開幕戦〜」
-2025.3.8 横浜武道館＜生中継＞</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/761.jpg" />
+	<programme channel="hikaritv-ch760" start="20250310091500 +0000" stop="20250310114500 +0000">
+		<title>パリ〜ニース2025 第1ステージ Cycle*</title>
+		<desc>別名「太陽へのレース」
+全8日間にわたってパリ近郊から地中海を駆け抜ける中級ステージレース！
+解説：栗村修
+実況：谷口廣明</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/760/760_760_0382.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch760" start="20250310114500 +0000" stop="20250310124500 +0000">
+		<title>高円宮杯 JFA U-18 サッカープレミアリーグ 2024 総集編</title>
+		<desc>高円宮杯 JFA U-18 サッカープレミアリーグ 2024
+総集編</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/760.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch761" start="20250308113000 +0000" stop="20250308120000 +0000">
 		<title>ニュース・スープレックス〜龍 ＃48</title>
@@ -16235,20 +16432,10 @@ www.jsports.co.jp</desc>
 2022.3.26 両国国技館＜3時間版＞</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/761.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch766" start="20250308080000 +0000" stop="20250308090000 +0000">
-		<title>CNN ニュースナイト(再)</title>
-		<desc>CNNの上級政治特派員アビー・フィリップが、アメリカと世界の最新ニュースをゲストコメンテーターの意見を交えながら、わかりやすくお伝えします。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/766/766_766_CNN_News_Night_logo_2023_11.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch766" start="20250308090000 +0000" stop="20250308100000 +0000">
-		<title>アンダーソン・クーパー360°(再)</title>
-		<desc>米国の最新トピックを全方向(360゜)で一望。司会はアンダーソン・クーパー。政治・経済からポップカルチャーまでリアル・アメリカを体験できます。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/766/766_766_AndersonCooper360_14.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch766" start="20250308100000 +0000" stop="20250308110000 +0000">
-		<title>(二)CNNニュースルーム</title>
-		<desc>アメリカと世界の最新ニュースを、アナリストの解説やコメンテーターの意見を交えながら、わかりやすくお伝えします。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/766/766_766_CNN_Newsroom_LyndaKinkade.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch761" start="20250310120000 +0000" stop="20250310140000 +0000">
+		<title>【特別編成】BJW Chronicle 関本大介編 #18</title>
+		<desc>【特別編成】大日本プロレス30周年記念放送！BJW Battle Chronicle〜関本大介選手が選ぶマッスルモンスター激闘史 #18</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/761.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch766" start="20250308110000 +0000" stop="20250308120000 +0000">
 		<title>CNN ディス・モーニング　ウィークエンド</title>
@@ -16485,15 +16672,20 @@ www.jsports.co.jp</desc>
 		<desc>ラヘル・ソロモンがお送りする朝一番のニュース・ワイド。これを見れば、アメリカと世界の「今」が一目でわかります。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/766/766_766_EarlyStart_RachelSolomon_1.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch770" start="20250308083000 +0000" stop="20250308090000 +0000">
-		<title>アタック！地方競馬 #310</title>
-		<desc>「地方競馬情報が満載！」</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/770.jpg" />
+	<programme channel="hikaritv-ch766" start="20250310100000 +0000" stop="20250310110000 +0000">
+		<title>(二)CNN ディス・モーニング</title>
+		<desc>オーディ・コーニッシュがワシントンDCからお送りするモーニング・ワイド。 バラエティに富んだゲストを交えて、最新ニュースや旬の話題をお伝えします。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/766/766_766_CNNThisMorning_Cornish_1.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch770" start="20250308090000 +0000" stop="20250308103000 +0000">
-		<title>今日のレースリプレイ</title>
-		<desc>「第２回中山競馬第３日・第１回阪神競馬第３日」</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/770.jpg" />
+	<programme channel="hikaritv-ch766" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>(二)CNN ニュース・セントラル</title>
+		<desc>アメリカと世界の最新ニュースを、アナリストの解説やコメンテーターの意見を交えながら、わかりやすくお伝えします。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/766/766_766_CNN_News_Central_0.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch766" start="20250310120000 +0000" stop="20250310123000 +0000">
+		<title>(二)CNN ニュース・セントラル</title>
+		<desc>アメリカと世界の最新ニュースを、アナリストの解説やコメンテーターの意見を交えながら、わかりやすくお伝えします。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/766/766_766_CNN_News_Central_1.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch770" start="20250308103000 +0000" stop="20250308120000 +0000">
 		<title>(生)日曜レース展望KEIBAコンシェルジュ #938</title>
@@ -16718,6 +16910,11 @@ www.jsports.co.jp</desc>
 	<programme channel="hikaritv-ch770" start="20250310090000 +0000" stop="20250310100000 +0000">
 		<title>水曜馬スペ！青春サラブレッド〜北海道浦河町27人の若者たちの夢〜</title>
 		<desc>「サラブレッドと共に成長していく若者たちの姿を描いた青春ドキュメンタリー」</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/770.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch770" start="20250310100000 +0000" stop="20250310130000 +0000">
+		<title>先週のレースリプレイ</title>
+		<desc>「第２回中山競馬第３・４日、第１回阪神競馬第３・４日」</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/770.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch771" start="20250308080000 +0000" stop="20250308150000 +0000">
@@ -16946,6 +17143,12 @@ www.jsports.co.jp</desc>
 		<desc>ケイリンライブ</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/772.jpg" />
 	</programme>
+	<programme channel="hikaritv-ch772" start="20250310120000 +0000" stop="20250310123000 +0000">
+		<title>3/11前夜版SPEED展望</title>
+		<desc>翌日放送する日中の開催を中心に、毎晩レース展望をお送りします。
+解説者や専門紙記者の推奨レース等、翌日の車券攻略に役立つ情報が盛り沢山です。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/772.jpg" />
+	</programme>
 	<programme channel="hikaritv-ch773" start="20250308080000 +0000" stop="20250308120000 +0000">
 		<title>京王閣 F2 第2日(ナイター)</title>
 		<desc>ケイリンライブ</desc>
@@ -17160,10 +17363,10 @@ www.jsports.co.jp</desc>
 		<desc>ケイリンライブ</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/773.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch774" start="20250307190000 +0000" stop="20250308090000 +0000">
-		<title>放送休止</title>
-		<desc>放送休止</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/774.jpg" />
+	<programme channel="hikaritv-ch773" start="20250310120000 +0000" stop="20250310123000 +0000">
+		<title>全国のレース結果</title>
+		<desc>本日全国で開催された競輪場のレース結果をお知らせします。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/773.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch774" start="20250308090000 +0000" stop="20250308190000 +0000">
 		<title>放送休止</title>
@@ -17189,26 +17392,6 @@ www.jsports.co.jp</desc>
 		<title>３／１０（月）南関東地方競馬チャンネル</title>
 		<desc>浦和、船橋、大井、川崎の南関東競馬場の4場で開催される全レースを生中継。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/774/774_774_ch774_202503.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch812" start="20250308083000 +0000" stop="20250308093000 +0000">
-		<title>ガニー軍曹のミリタリー大百科 #1 機関銃(二)</title>
-		<desc>『#1 機関銃』
-南北戦争のガトリング銃から最新技術が生んだM143Dミニガンまで、そのメカニズムや威力、そして発展の歴史をたどる。
-＜全13話＞</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/812/812_812_735_1609_S00_LG.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch812" start="20250308093000 +0000" stop="20250308100000 +0000">
-		<title>情報番組</title>
-		<desc>
-暮らしに役立つ情報満載。気に入った商品が見つかったらすぐにお電話下さい。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/812/812_812_Generic_HISTORY.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch812" start="20250308100000 +0000" stop="20250308115500 +0000">
-		<title>【特集：女性たちの物語】暴かれた英国王室の秘密 #1&amp;#2(字)</title>
-		<desc>『#1 ダイアナ 歴史的インタビューの真相/#2 愛と栄誉に揺れる女王』
-長きに渡り非公開だった英国王室の機密情報が遂に解禁！
-＜全4話＞</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/812/812_812_30E_1609_S00_LG.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch812" start="20250308115500 +0000" stop="20250308120000 +0000">
 		<title>ルネサンス新世界 #51 深見東州・大阪個展2025</title>
@@ -17485,23 +17668,25 @@ www.jsports.co.jp</desc>
 ＜S4/全25話＞</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/812/812_812_29B_1609_S04_LG.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch820" start="20250308080000 +0000" stop="20250308090000 +0000">
-		<title>【一挙放送】名車再生！1973年式マスタング・マッハ１(二)</title>
-		<desc>一挙放送
-今回は1973年式フォード・マスタング マッハ１を修復。パワーが落ち、サスペンションにもブレーキにも問題があって…。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/820/820_820_178256.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch812" start="20250310100000 +0000" stop="20250310110000 +0000">
+		<title>【にっぽんの歴史】THEナンバー2（竹中半兵衛&amp;黒田官兵衛）</title>
+		<desc>『“二兵衛”と呼ばれた秀吉の軍師 竹中半兵衛&amp;黒田官兵衛』
+秀吉に仕えた天才軍師の二人。どちらが真のナンバー2だったのだろうか。その生き様と卓越した才能に迫る！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/812/812_812_973_1609_S00_LG.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch820" start="20250308090000 +0000" stop="20250308100000 +0000">
-		<title>【一挙放送】名車再生！1973年式サーブ・96(二)</title>
-		<desc>一挙放送
-今回は1973年式のサーブ96を修理。長年、運転されなかった車は錆びている。熱心なファンをうならせることはできるのか？</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/820/820_820_178257.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch812" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>ザ・ユニバース〜宇宙の歴史〜S3 #37 地球周回軌道(二)</title>
+		<desc>『#37 地球周回軌道』
+人工衛星や宇宙ゴミが飛び交い、「宇宙スカイダイビング」という新たなアドベンチャーの開発が進む空間、地球周回軌道の今を探る。
+＜S3/全12話＞</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/812/812_812_612_1609_S03_LG.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch820" start="20250308100000 +0000" stop="20250308110000 +0000">
-		<title>【一挙放送】名車再生！：1994年式三菱GTO(二)</title>
-		<desc>一挙放送
-1994年式の三菱GTOを修理して、懐かしい90年代の世界をよみがえらせることに。しかし、システムの大半が機能せず…。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/820/820_820_178258.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch812" start="20250310120000 +0000" stop="20250310130000 +0000">
+		<title>激写！謎の軍事ファイル／ザ・未確認スペシャル #6 北極の米軍基地(字)</title>
+		<desc>『#6 北極の米軍基地』
+北極圏に残されたかつての米軍基地、「シーラブ計画」での水中ミッション、ソ連の凄腕パイロットたち、巨大兵器の謎を検証する。
+＜最終話＞</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/812/812_812_32U_1609_S00_LG.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch820" start="20250308110000 +0000" stop="20250308120000 +0000">
 		<title>【一挙放送】名車再生！：1964年式フォード・ランチェロ(二)</title>
@@ -17805,34 +17990,20 @@ www.jsports.co.jp</desc>
 今回、マイクは1970年式のフォード・ブロンコを入手するが、すぐに問題が発覚する。予想以上に錆びていたのだ。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/820/820_820_140459.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch830" start="20250308080000 +0000" stop="20250308090000 +0000">
-		<title>ミステリー・ミュージアム シーズン13 #11</title>
-		<desc>世界各地にある博物館の展示品の謎に迫り、驚くべき秘密を解き明かす！　Ｅｐｉｓｏｄｅ　１１　戦闘機からの脱出</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/830/830_830_TB0000251952_0011.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch820" start="20250310100000 +0000" stop="20250310110000 +0000">
+		<title>セレブの恩返し S2：ケヴィン・ハート お洒落な隠れ家(二)</title>
+		<desc>2019年、自動車事故で重体となったケヴィン・ハートは、トレーナーのボスのおかげで歩けるようになった。そんなボスのため古くなった小屋を洒落た趣味の部屋に変える。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/820/820_820_323163.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch830" start="20250308090000 +0000" stop="20250308093000 +0000">
-		<title>【集中放送】迷宮グルメ 異郷の駅前食堂 #34</title>
-		<desc>それは遥か遠くへの独り旅…スギちゃんが世界の鉄道で旅をしてふらりと降りた駅前の絶品グルメを探すふれあいの旅です　
-第３４話　韓国・ポルギョ駅</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/830/830_830_TB0000251683_0009.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch820" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>NASCAR開幕戦：スタート枠の争い(二)</title>
+		<desc>チームやドライバーがデイトナに向かう。オースティン・ディロンは前哨戦に参戦。スタート位置を決めるデュエルでも戦う。ラジョイのチームにトラブルが…。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/820/820_820_313310.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch830" start="20250308093000 +0000" stop="20250308100000 +0000">
-		<title>【集中放送】迷宮グルメ 異郷の駅前食堂 #35</title>
-		<desc>それは遥か遠くへの独り旅…スギちゃんが世界の鉄道で旅をしてふらりと降りた駅前の絶品グルメを探すふれあいの旅です　
-第３５話　ラオス・ルアンパバーン駅</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/830/830_830_TB0000251683_0010.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch830" start="20250308100000 +0000" stop="20250308103000 +0000">
-		<title>【集中放送】迷宮グルメ 異郷の駅前食堂 #36</title>
-		<desc>それは遥か遠くへの独り旅…スギちゃんが世界の鉄道で旅をしてふらりと降りた駅前の絶品グルメを探すふれあいの旅です　
-第３６話　シンガポール・テロック・アヤ駅</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/830/830_830_TB0000251683_0011.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch830" start="20250308103000 +0000" stop="20250308110000 +0000">
-		<title>【集中放送】迷宮グルメ 異郷の駅前食堂 #37</title>
-		<desc>それは遥か遠くへの独り旅…スギちゃんが世界の鉄道で旅をしてふらりと降りた駅前の絶品グルメを探すふれあいの旅です　
-第３７話　ベトナム・サイゴン駅</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/830/830_830_TB0000251683_0012.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch820" start="20250310120000 +0000" stop="20250310130000 +0000">
+		<title>名車再生！ランボルギーニ・ウラッコ(二)</title>
+		<desc>マイクはポーランドで希少価値の高いランボルギーニ・ウラッコを探す。探し出したウラッコは何年間も眠っていてエンジンがかからない。マイクはこの車に賭けるのか？</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/820/820_820_928984.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch830" start="20250308110000 +0000" stop="20250308120000 +0000">
 		<title>揺れる境界線：インドとパキスタンを繋ぐ道 #1</title>
@@ -18259,20 +18430,31 @@ www.jsports.co.jp</desc>
 		<desc>日本各地で愛されるドライブインのラーメンを訪ね、俳優・佐藤二朗が旅人「俺」として愉快なナレーションで旅する。第３２話「オン・ザ・山形ロード２」２０２１年制作</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/830/830_830_TB0000245006_0033.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch831" start="20250308080000 +0000" stop="20250308090500 +0000">
-		<title>ダンス界の未来のスター集結！◆【新】第9回高校生ダンスバトル選手権 #1</title>
-		<desc>ダンス界の未来を担う高校生ダンサーの頂上決戦！「第９回高校生ダンスバトル選手権」！</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/831/831_831_DAHSDB91_1.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch830" start="20250310093000 +0000" stop="20250310100000 +0000">
+		<title>インフォメーション</title>
+		<desc>インフォメーション
+通販番組をお届けする30分</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/830/830_830_TB0000250242_0001.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch831" start="20250308090500 +0000" stop="20250308103500 +0000">
-		<title>世界最大規模！◆マイナビDANCEALIVE 2024 FINAL #1</title>
-		<desc>２００５年に「ＤＡＮＣＥ＠ＬＩＶＥ（ダンスアライブ）」として日本で誕生した、１ｏｎ１形式の世界最大規模のストリートダンスバトルの決勝戦</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/831/831_831_DAAL2401_1.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch830" start="20250310100000 +0000" stop="20250310103000 +0000">
+		<title>映える！九州女子温泉旅 #11</title>
+		<desc>インフルエンサーが、九州のインスタ映えするスポットを巡る。宿、グルメ、美肌、映えスポットなど女子力満載温泉旅。第１１話「霧島温泉（鹿児島県）」２０２１年制作</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/830/830_830_TB0000246887_0011.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch831" start="20250308103500 +0000" stop="20250308115000 +0000">
-		<title>LE SSERAFIM、L.S.S.ほか！◆ショー！K-POPの中心 #175</title>
-		<desc>韓国で人気の音楽番組「ショー！Ｋ−ＰＯＰの中心」！ダンスチャンネルでは、「ダンス」に注目しピックアップした、「ダンスチャンネルセレクション」をお届け！</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/831/831_831_DAKPS175_1.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch830" start="20250310103000 +0000" stop="20250310110000 +0000">
+		<title>映える！九州女子温泉旅 #12</title>
+		<desc>インフルエンサーが、九州のインスタ映えするスポットを巡る。宿、グルメ、美肌、映えスポットなど女子力満載温泉旅。第１２話「指宿温泉（鹿児島県２）」２０２１年制作</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/830/830_830_TB0000246887_0012.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch830" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>絶景！大自然の水遊び天国 シーズン3 #6</title>
+		<desc>世界各地の知られざる遊泳スポットを紹介！誰も知らない究極の涼み場で忘れられない大冒険をしよう！ Episode 6 バリの滝つぼ</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/830/830_830_TB0000252245_0006.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch830" start="20250310120000 +0000" stop="20250310123000 +0000">
+		<title>平成酒どころめぐり #25</title>
+		<desc>四季折々で楽しむ、日本が世界に誇る文化、酒。旨し一杯、極上の肴を求め、全国の酒蔵のある町をさすらう旅番組。第２５話「総集編その１」２０１８年制作</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/830/830_830_TB0000243400_0013.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch831" start="20250308115000 +0000" stop="20250308130000 +0000">
 		<title>スアン(PURPLE KISS)、WEi他！◆SHOW CHAMPION#483</title>
@@ -18529,34 +18711,20 @@ www.jsports.co.jp</desc>
 		<desc>２０２４年３月２８日に開催された「ＵＳＡ　Ｔｈｅ　ＰＥＡＫ　２０２４　〜選抜クラブチーム大会〜」の模様を独占放送！</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/831/831_831_DATP2403_1.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch832" start="20250308043000 +0000" stop="20250308094000 +0000">
-		<title>将棋）[生]ALSOK杯第74期王将戦七番勝負第5局1日目　午後</title>
-		<desc>藤井聡太王将 vs 永瀬拓矢九段　
-※延長の場合あり、第4局までに終了の場合番組変更</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/832.jpg" />
+	<programme channel="hikaritv-ch831" start="20250310094500 +0000" stop="20250310105000 +0000">
+		<title>選抜クラブチーム大会！◆USA ザ ピーク 2024 #4</title>
+		<desc>２０２４年３月２８日に開催された「ＵＳＡ　Ｔｈｅ　ＰＥＡＫ　２０２４　〜選抜クラブチーム大会〜」の模様を独占放送！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/831/831_831_DATP2404_1.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch832" start="20250308094000 +0000" stop="20250308100000 +0000">
-		<title>将棋）将棋まるナビNo.112</title>
-		<desc>将棋まるナビ＃112</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/832/832_832_S5735750.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch831" start="20250310105000 +0000" stop="20250310115500 +0000">
+		<title>選抜クラブチーム大会！◆USA ザ ピーク 2024 #5</title>
+		<desc>２０２４年３月２８日に開催された「ＵＳＡ　Ｔｈｅ　ＰＥＡＫ　２０２４　〜選抜クラブチーム大会〜」の模様を独占放送！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/831/831_831_DATP2405_1.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch832" start="20250308100000 +0000" stop="20250308103000 +0000">
-		<title>将棋）第43期女流王将 里見香奈の素顔</title>
-		<desc>第43期女流王将 里見香奈の素顔</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/832/832_832_S5790055.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch832" start="20250308103000 +0000" stop="20250308104600 +0000">
-		<title>将棋）ひふみん日記No.8</title>
-		<desc>2019/2/23の日記</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/832/832_832_S5789001.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch832" start="20250308104600 +0000" stop="20250308110000 +0000">
-		<title>将棋）挑戦！テレビ将棋認定 No.1280</title>
-		<desc>番組進行：室谷由紀女流三段
-
-     ★解答応募〆切日★
-令和07年3月14日(金) 消印有効</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/832/832_832_S5795110.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch831" start="20250310115500 +0000" stop="20250310130000 +0000">
+		<title>大人の女性のためのチアダンスエクササイズ！◆ENJOY！チア☆エクサ #3</title>
+		<desc>元Ｂリーグのチアリーダーが教える！大人の女性のためのチアダンスエクササイズをレクチャー！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/831/831_831_DACHEX03_1.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch832" start="20250308110000 +0000" stop="20250308123800 +0000">
 		<title>将棋）第33期 銀河戦</title>
@@ -18934,20 +19102,39 @@ www.jsports.co.jp</desc>
 聞き手：高梨聖子</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/832.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch840" start="20250308080000 +0000" stop="20250308090000 +0000">
-		<title>RAD SALT 9 山口シーバスゲーム</title>
-		<desc>RAD(ヤバい)な瞬間を求めて、オカッパリのみで全国のフィールドにチャレンジする『RAD SALT』。今回は山口県下関を拠点に河川＆磯で春のシーバスに挑む！</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/840.jpg" />
+	<programme channel="hikaritv-ch832" start="20250310110000 +0000" stop="20250310112000 +0000">
+		<title>囲碁）挑戦！テレビ囲碁認定 No.1280</title>
+		<desc>番組進行：中島美絵子三段
+
+     ★解答応募〆切日★
+令和07年3月15日(土) 消印有効</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/832/832_832_I5794144.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch840" start="20250308090000 +0000" stop="20250308100000 +0000">
-		<title>オフショアレボリューションNEXT 138 錦江湾でタイづくし！</title>
-		<desc>沖釣り界の新たな発見、そして革命を目指すオフショアレボリューション。様々な釣りに精通した高橋哲也と松田竜也が、今まで培った経験と独自の発想で海の魅力を伝える。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/840.jpg" />
+	<programme channel="hikaritv-ch832" start="20250310112000 +0000" stop="20250310114000 +0000">
+		<title>囲碁）安斎伸彰の囲碁上級講座「よくある形に潜むワナ」No.25、26</title>
+		<desc>定石後の狙い(2) ほか
+解　説：安斎伸彰七段
+聞き手：下田和美</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/832/832_832_I5747328.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch840" start="20250308100000 +0000" stop="20250308110000 +0000">
-		<title>[解]Rock'n Fish 80 宮崎日南ロックゲーム</title>
-		<desc>日本全土をフィールドにロックフィッシュゲームの奥深さや楽しさ追求していく『Rock'n Fish』。今回は番組初上陸となる宮崎県日南エリアでオフショアロックゲームに挑む。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/840.jpg" />
+	<programme channel="hikaritv-ch832" start="20250310114000 +0000" stop="20250310115300 +0000">
+		<title>囲碁）次の一手TVミニ No.3、4</title>
+		<desc>番組進行：新垣未希</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/832/832_832_I5729625.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch832" start="20250310115300 +0000" stop="20250310120000 +0000">
+		<title>囲碁）詰碁コーナー 第35回</title>
+		<desc>番組進行：高梨聖子</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/832/832_832_I5729152.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch832" start="20250310120000 +0000" stop="20250310140000 +0000">
+		<title>囲碁）第34期 竜星戦</title>
+		<desc>本戦Dブロック 3回戦
+鶴田和志七段 vs 村本　渉四段
+対局日：2024年12月19日
+解　説：横塚　力七段
+聞き手：茂呂有紗二段</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/832/832_832_I5792516.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch840" start="20250308110000 +0000" stop="20250308120000 +0000">
 		<title>[新]ぶらりバスの旅 48 大寒波襲来！滋賀の旅！</title>
@@ -19199,23 +19386,25 @@ www.jsports.co.jp</desc>
 		<desc>アドレナリンが分泌し、感情が高ぶる…。釣り人なら誰しも一度は経験するシーンをお送りする。“あなたの心の魚探を真っ赤に染める”『いま真っ赤だよ！』。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/840.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch841" start="20250308083000 +0000" stop="20250308090000 +0000">
-		<title>ブラマヨ吉田の「ガケっぱち!!」 #522</title>
-		<desc>ブラマヨ吉田が、パチンコライター・ガケっぷちゲストとともに自腹ガチ実戦!!
-（毎週月曜 21:00更新）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/841.jpg" />
+	<programme channel="hikaritv-ch840" start="20250310100000 +0000" stop="20250310110000 +0000">
+		<title>ITT 19 ウキフカセ釣りの聖地 徳島に初挑戦！</title>
+		<desc>阿波釣法で知られるウキフカセ釣り発祥の地、徳島県に田中貴が初挑戦。ハイプレッシャー、低水温、産卵というタフコンディションを、積み重ねてきた経験と技で打ち破る！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/840.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch841" start="20250308090000 +0000" stop="20250308100000 +0000">
-		<title>キャノンボール_26 #2</title>
-		<desc>今をときめく美人スロッター3人が番組レギュラーの生き残りをかけてガチ対決！
-【出演】 橘アンジュ、玉ちゃん、河原みのり　（第1第3火曜 21時更新)</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/841.jpg" />
+	<programme channel="hikaritv-ch840" start="20250310110000 +0000" stop="20250310113000 +0000">
+		<title>[新]押忍！東北つれつれ団 14 サワラ</title>
+		<desc>東北6県の「海」「川」「湖」を舞台に、釣りの楽しさや魅力を全国の皆さまに伝えていく『押忍！東北つれつれ団』。釣りを通じて東北地方の魅力を全国に発信していきます！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/840.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch841" start="20250308100000 +0000" stop="20250308110000 +0000">
-		<title>嵐と松本 #221</title>
-		<desc>嵐と松本バッチが運や確率の限界を愛と知性と情熱で突き抜ける「超・挑戦型パチスロ番組」！
-（第1第3木曜 22:00更新）</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/841.jpg" />
+	<programme channel="hikaritv-ch840" start="20250310113000 +0000" stop="20250310120000 +0000">
+		<title>発見！すごかby九州 #13 天草 メバル</title>
+		<desc>日本各地の釣りガールたちが身近な釣りを紹介する『釣りますニッポン！』シリーズの九州版。今回は熊本県上天草を舞台に小雪ちゃんがのべ竿で狙うメバル釣りをご紹介。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/840.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch840" start="20250310120000 +0000" stop="20250310130000 +0000">
+		<title>[新]楽釣楽磯宣言 81 寒波襲来！和歌山県出雲で寒グレ</title>
+		<desc>どこか取っ付きにくいと思われがちな磯釣り。そんなイメージを払拭し、多くの釣り人に磯釣りの楽しさをお伝えする番組。今回は、番組初となる和歌山県串本町出雲エリアへ！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/840.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch841" start="20250308110000 +0000" stop="20250308120000 +0000">
 		<title>サイトセブンアワー</title>
@@ -19521,23 +19710,26 @@ www.jsports.co.jp</desc>
 		<desc>悪の組織に囚われた仲間を救い出せ！青山りょう、マリブ鈴木、ロギーが身代金5万枚を目指しパチンコパチスロ実戦で奮闘する！（第1第3土曜 21時更新)</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/841.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch842" start="20250308080000 +0000" stop="20250308090000 +0000">
-		<title>パチテレ！ガールズClassic　レディースバトル〜二階堂が挑戦〜</title>
-		<desc>レディースバトル〜二階堂が挑戦〜#83
-初回放送　2011/6
-番組内でのプレゼント応募・告知等は終了しております
-番組中に映像の乱れが生じております。予めご了承くだ…</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/842/842_842_842888.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch841" start="20250310100000 +0000" stop="20250310103000 +0000">
+		<title>ブラマヨ吉田の「ガケっぱち!!」 #522</title>
+		<desc>ブラマヨ吉田が、パチンコライター・ガケっぷちゲストとともに自腹ガチ実戦!!
+（毎週月曜 21:00更新）</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/841.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch842" start="20250308090000 +0000" stop="20250308100000 +0000">
-		<title>水瀬・フェアリン・河原の超荒波バスターズ　#17</title>
-		<desc>［隔週木曜23:00初回］一撃性を期待され導入されるも、そのゲーム性の難しさから多くのユーザーが泣かされたであろう機種に3人の女子ライターが捨て身の実戦で挑む！</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/842/842_842_842319.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch841" start="20250310103000 +0000" stop="20250310110000 +0000">
+		<title>レビンのオーラス #31</title>
+		<desc>レビンが気になる機種をオープンからラストまで全ツッパ！！設定した目標のクリアを目指しながら機種の楽しさをとことん伝えます！（第1第3水曜 22時更新)</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/841.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch842" start="20250308100000 +0000" stop="20250308110000 +0000">
-		<title>ハセガワヤングマン #163</title>
-		<desc>[隔週水曜23:00初回更新]あの伝説の3人が帰ってくる！リスキー長谷川と、大崎一万発×ヒロシ・ヤングの3名による企画も盛りだくさんのホール実戦！</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/842/842_842_842288.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch841" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>サイトセブンアワー</title>
+		<desc>ウシオ、飄、とっぱち、うっちぃ、マコトの6人が激しい戦いを繰り広げた第14シーズンをもう一度！「パチスロバトルリーグ #358」</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/841.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch841" start="20250310120000 +0000" stop="20250310123000 +0000">
+		<title>ナツ美 玲子のチョベリグ!! #33</title>
+		<desc>ナツ美と神谷玲子が 2 人で力を合わせ目標達成を目指し実戦していくバラエティ企画！平成の懐かしいスタイルで展開するゆるい番組です!（第1第3月曜 21時更新)</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/841.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch842" start="20250308110000 +0000" stop="20250308120000 +0000">
 		<title>Back to パチンコ実戦塾</title>
@@ -19844,31 +20036,28 @@ www.jsports.co.jp</desc>
 		<desc>[隔週土曜22:00初回]チャンピオンに求められるのは「パチンコで勝つための知識と技術と運」。ホールで回る台を見つけ運も味方に付け者だけがチャンピオンの栄冠に輝く！</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/842/842_842_842318.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch843" start="20250308083000 +0000" stop="20250308090000 +0000">
-		<title>三大話芸都市伝説 #4</title>
-		<desc>日本三大話芸の講談・落語・浪曲にてみんな大好き都市伝説を話す！語る！唸る！</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/843/843_843_sandaiwagei.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch842" start="20250310093000 +0000" stop="20250310100000 +0000">
+		<title>パチンコ実戦塾VENUS #73</title>
+		<desc>[隔週土曜22:30初回]3名の女性出演者が、磨き上げた技と知識を武器に、パチンコ実戦でプラス収支を目指す！3人の全6戦合計収支がプラスなら次シーズンも全員出演継続！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/842/842_842_842303.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch843" start="20250308090000 +0000" stop="20250308093000 +0000">
-		<title>インフォメーション</title>
-		<desc>インフォメーション</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/843/843_843_shigeki.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch842" start="20250310100000 +0000" stop="20250310110000 +0000">
+		<title>旭川興業 #23</title>
+		<desc>[隔週土曜23:00初回]個性豊かなメンバーが集う中小企業「旭川興業」。パチンコ店を舞台に社員一丸となり、売上UP（プラス収支）を目指す！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/842/842_842_842316.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch843" start="20250308093000 +0000" stop="20250308100000 +0000">
-		<title>セフレの虎 #10</title>
-		<desc>セッ●スフレンド志願者が集う会。
-果たしてセクシーを極めた虎たちに歪んだ男たちの思いは届くのだろうか・・・！？</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/843/843_843_sefure.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch842" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>Back to パチンコ実戦塾</title>
+		<desc>パチンコ実戦塾 #36
+初回放送　2017/6
+番組内でのプレゼント応募・一部告知等は終了しております。
+番組中に映像の乱れが生じております。予めご了承ください。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/842/842_842_842999.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch843" start="20250308100000 +0000" stop="20250308103000 +0000">
-		<title>インフォメーション</title>
-		<desc>インフォメーション</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/843/843_843_shigeki.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch843" start="20250308103000 +0000" stop="20250308110000 +0000">
-		<title>Mecha Rock！（めちゃ ろっく） #9</title>
-		<desc>関西発！最新アイドル情報満載！</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/843/843_843_mecharock.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch842" start="20250310120000 +0000" stop="20250310130000 +0000">
+		<title>パチンコ実戦塾外伝 山ちゃんロギちゃん 〈借金返済弾球録〉#41</title>
+		<desc>［隔週金曜23:00初回］パチンコ実戦塾で大奮闘した、山ちゃんボンバー・ロギーがお送りする借金返済実戦企画！ロギーの借金をパチンコの腕で完全返済を目指す！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/842/842_842_842312.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch843" start="20250308110000 +0000" stop="20250308120000 +0000">
 		<title>月間JOYSOUNDカラオケヒットランキング 演歌・アニメ・総合 #64</title>
@@ -20169,6 +20358,37 @@ www.jsports.co.jp</desc>
 		<desc>インフォメーション</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/843/843_843_shigeki.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
+	<programme channel="hikaritv-ch843" start="20250310093000 +0000" stop="20250310100000 +0000">
+		<title>三大話芸都市伝説 #10</title>
+		<desc>日本三大話芸の講談・落語・浪曲にてみんな大好き都市伝説を話す！語る！唸る！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/843/843_843_sandaiwagei.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch843" start="20250310100000 +0000" stop="20250310103000 +0000">
+		<title>インフォメーション</title>
+		<desc>インフォメーション</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/843/843_843_shigeki.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch843" start="20250310103000 +0000" stop="20250310110000 +0000">
+		<title>セフレの虎 #10</title>
+		<desc>セッ●スフレンド志願者が集う会。
+果たしてセクシーを極めた虎たちに歪んだ男たちの思いは届くのだろうか・・・！？</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/843/843_843_sefure.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch843" start="20250310110000 +0000" stop="20250310113000 +0000">
+		<title>ツキとスッポンぽんセレクション #233</title>
+		<desc>むふふ女優　森沢かな　後編　人気ライターの木村魚拓が、「むふふな撮影会」をかけてセクシー女優と出玉勝負。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/843/843_843_tsukitosupponpon.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch843" start="20250310113000 +0000" stop="20250310120000 +0000">
+		<title>Cartolive.TV #105</title>
+		<desc>Car Lifeをもっと楽しんでもらうための番組。 車に関するいろんな情報をお伝えしていきます。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/843/843_843_cartolivetv.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
+	<programme channel="hikaritv-ch843" start="20250310120000 +0000" stop="20250310123000 +0000">
+		<title>イトシンのおじさんスケボー放浪記 #6</title>
+		<desc>プロスケーター伊藤慎一が全国のパークと酒場を放浪！</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/843/843_843_itoshin.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	</programme>
 	<programme channel="hikaritv-ch860" start="20250308070000 +0000" stop="20250308120000 +0000">
 		<title>イブニングニュース</title>
 		<desc>▽国内外の最新ニュース、トピックスやトレンド、お天気情報　▽速報は“ブレイキングニュース”</desc>
@@ -20224,30 +20444,10 @@ www.jsports.co.jp</desc>
 		<desc>▽国内外の最新ニュース、トピックスやトレンド、お天気情報　▽速報は“ブレイキングニュース”</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/860.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch861" start="20250308083000 +0000" stop="20250308090000 +0000">
-		<title>[英]極限気候探検隊</title>
-		<desc>3人の女性科学者たちが、地球と私たちを救うデータ収集のため、自然の極限と闘う。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/861.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch861" start="20250308090000 +0000" stop="20250308100000 +0000">
-		<title>BBCニュース</title>
-		<desc>世界の最新ニュースをお送りする。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/861.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch861" start="20250308100000 +0000" stop="20250308103000 +0000">
-		<title>BBCニュース</title>
-		<desc>世界の最新ニュースをお送りする。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/861.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch861" start="20250308103000 +0000" stop="20250308110000 +0000">
-		<title>トーキング・ビジネス(再)</title>
-		<desc>世界を変えていくビジネスの話題や経済動向を分析するビジネス情報番組。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/861.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch861" start="20250308110000 +0000" stop="20250308113000 +0000">
-		<title>BBCニュース</title>
-		<desc>世界の最新ニュースをお送りする。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/861.jpg" />
+	<programme channel="hikaritv-ch860" start="20250310120000 +0000" stop="20250310140000 +0000">
+		<title>ナイトニュース</title>
+		<desc>▽国内外の最新・注目ニュース、お天気情報　▽速報は“ブレイキングニュース”</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/860.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch861" start="20250308113000 +0000" stop="20250308120000 +0000">
 		<title>グリーンランドは売り物か？</title>
@@ -20704,10 +20904,40 @@ www.jsports.co.jp</desc>
 		<desc>世界の最新ニュースをお送りする。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/861.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch862" start="20250308080000 +0000" stop="20250308090000 +0000">
-		<title>Late　Afternoon　News</title>
-		<desc>最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Late Afternoon News」</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/862/862_862_NN0000011654.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch861" start="20250310093000 +0000" stop="20250310100000 +0000">
+		<title>BBCニュース</title>
+		<desc>世界の最新ニュースをお送りする。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/861.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch861" start="20250310100000 +0000" stop="20250310103000 +0000">
+		<title>BBCニュース</title>
+		<desc>世界の最新ニュースをお送りする。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/861.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch861" start="20250310103000 +0000" stop="20250310110000 +0000">
+		<title>ハード・トーク(再)</title>
+		<desc>政治的指導者からエンターテイナー、企業の経営責任者から話題となった一般の人まで、多彩なゲストを迎えてお送りするインタビュー番組。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/861.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch861" start="20250310110000 +0000" stop="20250310113000 +0000">
+		<title>BBCニュース</title>
+		<desc>世界の最新ニュースをお送りする。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/861.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch861" start="20250310113000 +0000" stop="20250310114500 +0000">
+		<title>ビジネストゥデイ</title>
+		<desc>ロンドンをはじめ世界各国から、最新のビジネスニュースや最新情報に基づいた深い分析を届ける。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/861.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch861" start="20250310114500 +0000" stop="20250310120000 +0000">
+		<title>BBCニュース</title>
+		<desc>世界の最新ニュースをお送りする。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/861.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch861" start="20250310120000 +0000" stop="20250310123000 +0000">
+		<title>BBCニュース・ナウ</title>
+		<desc>ルーシー・ホッキングスがその日の主要な出来事をライブでお届けする。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/861.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch862" start="20250308090000 +0000" stop="20250308120000 +0000">
 		<title>Evening　News</title>
@@ -20826,28 +21056,10 @@ www.jsports.co.jp</desc>
 		<desc>最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Evening News」</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/862/862_862_NN0000011655.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch863" start="20250308080000 +0000" stop="20250308090000 +0000">
-		<title>(二)CNNニュースルーム</title>
-		<desc>日本語同時通訳付。
-アメリカと世界の最新ニュースを、アナリストの解説やコメンテーターの意見を交えながら、わかりやすくお伝えします。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/863/863_863_CNN_Newsroom_PaulaNewton.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch863" start="20250308090000 +0000" stop="20250308100000 +0000">
-		<title>(二)CNNニュースルーム</title>
-		<desc>日本語同時通訳付。
-アメリカと世界の最新ニュースを、アナリストの解説やコメンテーターの意見を交えながら、わかりやすくお伝えします。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/863/863_863_CNN_Newsroom_LyndaKinkade.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch863" start="20250308100000 +0000" stop="20250308110000 +0000">
-		<title>(二)CNNニュースルーム</title>
-		<desc>日本語同時通訳付。
-アメリカと世界の最新ニュースを、アナリストの解説やコメンテーターの意見を交えながら、わかりやすくお伝えします。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/863/863_863_CNN_Newsroom_MichaelHolmes.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
-	</programme>
-	<programme channel="hikaritv-ch863" start="20250308110000 +0000" stop="20250308113000 +0000">
-		<title>African Voices(再)</title>
-		<desc>世界的に活躍するアフリカ各国の話題の人物に、ロング・インタビュー。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/863/863_863_African_Voices2.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
+	<programme channel="hikaritv-ch862" start="20250310120000 +0000" stop="20250310150000 +0000">
+		<title>Daily　Planet</title>
+		<desc>最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Daily Planet」</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/862/862_862_NN0000011656.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch863" start="20250308113000 +0000" stop="20250308120000 +0000">
 		<title>特別番組：カタールの魅力(再)</title>
@@ -21196,42 +21408,22 @@ CNNを代表するキャスター、クリスティアン・アマンプール�
 ラヘル・ソロモンがお送りする朝一番のニュース・ワイド。これを見れば、アメリカと世界の「今」が一目でわかります。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/863/863_863_CNN_Newsroom_RahelSolomon.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch876" start="20250308085900 +0000" stop="20250308093000 +0000">
-		<title>VERSION FRANCAISE</title>
-		<desc>[日本語字幕]バージョン・フランセーズ
-モード、デザイン、ガストロノミーなど、フランス流の粋なスタイルをカトリーナ・マルクスが紹介する。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/876.jpg" />
+	<programme channel="hikaritv-ch863" start="20250310100000 +0000" stop="20250310110000 +0000">
+		<title>(二)CNN ディス・モーニング</title>
+		<desc>オーディ・コーニッシュがワシントンDCからお送りするモーニング・ワイド。 バラエティに富んだゲストを交えて、最新ニュースや旬の話題をお伝えします。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/863/863_863_CNNThisMorning_L2.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch876" start="20250308093000 +0000" stop="20250308100000 +0000">
-		<title>TENDANCE XXI</title>
-		<desc>[日本語字幕]21世紀　フランス流行通信
-モードやデザイン、ビューティー、ガストロノミーなど、様々な分野のフランス流クリエーションを発信する番組。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/876.jpg" />
+	<programme channel="hikaritv-ch863" start="20250310110000 +0000" stop="20250310120000 +0000">
+		<title>(二)CNN ニュース・セントラル</title>
+		<desc>日本語同時通訳付。
+アメリカと世界の最新ニュースを、アナリストの解説やコメンテーターの意見を交えながら、わかりやすくお伝えします。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/863/863_863_CNN_News_Central_1_2.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
-	<programme channel="hikaritv-ch876" start="20250308100000 +0000" stop="20250308101500 +0000">
-		<title>TV5MONDE, LE JOURNAL</title>
-		<desc>TV5MONDE ニュース
-TV5MONDE制作のフランス国内外の時事ニュース
- </desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/876.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch876" start="20250308101500 +0000" stop="20250308113200 +0000">
-		<title>SIMONE VEIL, LES COMBATS D'UNE EFFRONTEE</title>
-		<desc>シモーヌ・ヴェイユ　果敢な戦い
-2018年7月1日、シモーヌ・ヴェールがパンテオンに埋葬される。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/876.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch876" start="20250308113200 +0000" stop="20250308115000 +0000">
-		<title>Y'A PAS DE PLANETE B</title>
-		<desc>地球にかわる惑星はない</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/876.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch876" start="20250308115000 +0000" stop="20250308115900 +0000">
-		<title>OUTREMER.L'INFO</title>
-		<desc>フランス海外県ニュース
-フランス海外県の最新ニュースをお届けする。
- </desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/876.jpg" />
+	<programme channel="hikaritv-ch863" start="20250310120000 +0000" stop="20250310123000 +0000">
+		<title>(二)CNN ニュース・セントラル</title>
+		<desc>日本語同時通訳付。
+アメリカと世界の最新ニュースを、アナリストの解説やコメンテーターの意見を交えながら、わかりやすくお伝えします。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/iptv_thumb/202503/863/863_863_CNN_News_Central_1_2.jpg?type=resize&amp;width=640&amp;height=360&amp;quality=100" />
 	</programme>
 	<programme channel="hikaritv-ch876" start="20250308115900 +0000" stop="20250308134100 +0000">
 		<title>OPJ</title>
@@ -21662,55 +21854,18 @@ RTBF制作のニュース。
 毎年9百万人ものハイカーがやってくる税関史の道。</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/876.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch877" start="20250308083000 +0000" stop="20250308090000 +0000">
-		<title>TVショッピング</title>
-		<desc>通販番組。お買い得商品がいっぱいです。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
+	<programme channel="hikaritv-ch876" start="20250310101500 +0000" stop="20250310102900 +0000">
+		<title>TV5MONDE, LE JOURNAL</title>
+		<desc>TV5MONDE ニュース
+TV5MONDE制作のフランス国内外の時事ニュース
+ </desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/876.jpg" />
 	</programme>
-	<programme channel="hikaritv-ch877" start="20250308090000 +0000" stop="20250308093000 +0000">
-		<title>THE EDGE〜未来を拓く新技術を探せ！〜</title>
-		<desc>【#61】アメリカ、ドイツ、スペイン、中国で電動垂直離着陸機（eVTOL）、いわゆる「空飛ぶクルマ」の開発や販売を行う企業を取材。新たな交通手段の最前線に迫る。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch877" start="20250308093000 +0000" stop="20250308100000 +0000">
-		<title>TVショッピング</title>
-		<desc>通販番組。お買い得商品がいっぱいです。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch877" start="20250308100000 +0000" stop="20250308103000 +0000">
-		<title>ガリレオX</title>
-		<desc>【#212】注目の技術や研究動向を深く面白く伝えるドキュメンタリー。「空飛ぶ車」や「海洋都市」、さらには「宇宙基地」など。2050年までの予測が描き出す未来とは？</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch877" start="20250308103000 +0000" stop="20250308110000 +0000">
-		<title>ガリレオX</title>
-		<desc>【#209】注目の技術や研究動向を深く面白く伝えるドキュメンタリー。鉄より硬く、ナイロンよりしなやかで、300℃の高熱にも耐えるという、”クモ糸研究”の最前線。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch877" start="20250308110000 +0000" stop="20250308112000 +0000">
-		<title>トップに聞く(再)</title>
-		<desc>【2月19日放送】旬の上場企業のトップを招き、様々な切り口から成長戦略や競争環境などをじっくり聞くロングインタビュー。ゲストはワタミ(7522)の渡辺美樹会長。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch877" start="20250308112000 +0000" stop="20250308112500 +0000">
-		<title>パノラマ</title>
-		<desc>日経CNBCのお届けするブレイクタイムです。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch877" start="20250308112500 +0000" stop="20250308113000 +0000">
-		<title>カレイドスコープ</title>
-		<desc>癒しのひと時をお届けします。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch877" start="20250308113000 +0000" stop="20250308115000 +0000">
-		<title>トップに聞く(再)</title>
-		<desc>【2月13日放送】旬の上場企業のトップを招き、成長戦略や競争環境などを聞くロングインタビュー。ゲストは富士フィルムホールディングス(4901)の後藤禎一社長。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
-	</programme>
-	<programme channel="hikaritv-ch877" start="20250308115000 +0000" stop="20250308115500 +0000">
-		<title>パノラマ</title>
-		<desc>日経CNBCのお届けするブレイクタイムです。</desc>
-		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
+	<programme channel="hikaritv-ch876" start="20250310102900 +0000" stop="20250310121900 +0000">
+		<title>UN DIMANCHE A LA CAMPAGNE</title>
+		<desc>[日本語字幕]田舎で過ごす日曜日
+都会の喧騒を離れ、田舎で過ごす週末のひと時。日常から離れ、人々と交流し、愛や友情、人生について語り合う。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/876.jpg" />
 	</programme>
 	<programme channel="hikaritv-ch877" start="20250308115500 +0000" stop="20250308120000 +0000">
 		<title>LBSローカルビジネスサテライト</title>
@@ -22275,6 +22430,61 @@ RTBF制作のニュース。
 	<programme channel="hikaritv-ch877" start="20250310083000 +0000" stop="20250310093000 +0000">
 		<title>昼エクスプレス(再)　</title>
 		<desc>東京市場の午後の動きをノンストップで、注目銘柄や業種をタイムリーに解説。大引けを迎えた15:30以降は1日の動きを振り返るとともにあすの投資のヒントを伝える。再放送</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch877" start="20250310093000 +0000" stop="20250310095000 +0000">
+		<title>露口一郎の家計もカラダも筋肉質に！</title>
+		<desc>【#42】家計に役立つお金の話題を肉体派（？）コメンテーター・露口一郎がわかりやすく解説します。 ◆テーマ：「実家の保険、親子で情報共有」</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch877" start="20250310095000 +0000" stop="20250310095500 +0000">
+		<title>カレイドスコープ</title>
+		<desc>癒しのひと時をお届けします。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch877" start="20250310095500 +0000" stop="20250310100000 +0000">
+		<title>パノラマ</title>
+		<desc>日経CNBCのお届けするブレイクタイムです。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch877" start="20250310100000 +0000" stop="20250310102000 +0000">
+		<title>Insight(再)</title>
+		<desc>【#419】幅広いゲストを迎えて気になる話題を深掘りする。 ◆テーマ：「楽しい暇祭り」 ◆出演：馬渕治好氏（ブーケ・ド・フルーレット）</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch877" start="20250310102000 +0000" stop="20250310103000 +0000">
+		<title>パノラマ</title>
+		<desc>日経CNBCがお届けするブレイクタイムです。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch877" start="20250310103000 +0000" stop="20250310105500 +0000">
+		<title>US Squawk Box</title>
+		<desc>ニューヨーク市場の取引前にビジネス界の重鎮や企業トップ、政治家にインタビューするニュース＆トーク番組。英語放送。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch877" start="20250310105500 +0000" stop="20250310110000 +0000">
+		<title>ビズ・レコ</title>
+		<desc>役に立つ、お得な情報をお届けします。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch877" start="20250310110000 +0000" stop="20250310111500 +0000">
+		<title>FX経済研究所(再) </title>
+		<desc>外為市場に長年携わってきた「外為情報のプロ」達が集う、「FX経済研究所」。「外国為替証拠金(FX)取引」に役立つ最新＆必見情報をお届けします。再放送。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch877" start="20250310111500 +0000" stop="20250310113000 +0000">
+		<title>US Squawk Box </title>
+		<desc>ニューヨーク市場の取引前にビジネス界の重鎮や企業トップ、政治家にインタビューするニュース＆トーク番組。英語放送。</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch877" start="20250310113000 +0000" stop="20250310120000 +0000">
+		<title>ガリレオX</title>
+		<desc>【#212】注目の技術や研究動向を深く面白く伝えるドキュメンタリー。「空飛ぶ車」や「海洋都市」、さらには「宇宙基地」など。2050年までの予測が描き出す未来とは？</desc>
+		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
+	</programme>
+	<programme channel="hikaritv-ch877" start="20250310120000 +0000" stop="20250310122000 +0000">
+		<title>Insight(再)</title>
+		<desc>【#419】幅広いゲストを迎えて気になる話題を深掘りする。 ◆テーマ：「楽しい暇祭り」 ◆出演：馬渕治好氏（ブーケ・ド・フルーレット）</desc>
 		<icon src="https://image-origin.hikaritv.net/tv/ch_logos/877.jpg" />
 	</programme>
 </tv>
